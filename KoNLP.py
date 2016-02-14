@@ -121,7 +121,7 @@ kkma=Kkma()
 #     print i[0],i[1]
 
 a=time.time()
-morphs,freq=WCountPos(sent[:100000],kkma,write=1,n=-1,name='pos.list')
+morphs,freq=WCountPos(sent,kkma,write=1,n=-1,name='pos.list')
 b=time.time()
 print (b-a)/60.,' minutes passed'
 for i in freq[:10]:
