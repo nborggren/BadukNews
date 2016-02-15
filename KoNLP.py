@@ -128,9 +128,9 @@ kkma=Kkma()
 #     b=time.time()
 #     print (b-a)/60.,' minutes passed ',i
 
-k=42
+k=77
 n=len(sent)/k
-for i in range(k):
+for i in range(k)[14:]:
     a=time.time()
     morphs,freq=WCountPos(sent[n*i:min([n*(i+1),len(sent)-1])],kkma,write=1,n=-1,name='dat_'+str(i)+'.list')
     b=time.time()
