@@ -23,29 +23,21 @@ def Clean(sentence,comma=0):
             sentence=sentence.replace(i,' ')
     return sentence.strip()
 
-def LoadDB():
-    sent1=[]
-    f = open('./lists/han.list')
-    for line in f:
-        tmp=ReadSent(int(line.split('.')[0]))
-        for j in tmp:
-            sent1.append(j)
+def LoadDB(src='han'):
+    if src!='all':
+        sent1=[]
+        f = open('./lists/'+src+'.list')
+        for line in f:
+            tmp=ReadSent(int(line.split('.')[0]),src='./'+src+'/')
+            for j in tmp:
+                sent1.append(j)
 
-    sent2=[]
-    f = open('./lists/dat.list')
-    for line in f:
-        tmp=ReadSent(int(line.split('.')[0]),src='./dat/')
-        for j in tmp:
-            sent2.append(j)
+    else:
+        sent1=LoadDB(src='dat')
+        sent1+=LoadDB(src='dat')
+        sent1+=LoadDB(src='oro')
         
-    sent3=[]
-    f = open('./lists/oro.list')
-    for line in f:
-        tmp=ReadSent(int(line.split('.')[0]),src='./oro/')
-        for j in tmp:
-            sent3.append(j)
-
-    return sent1+sent2+sent3
+    return sent1
 
 def WCount(sent,kkma,write=0,n=2000,name='konlp.wlist'):
     mywords={}
@@ -99,9 +91,9 @@ def WCountPos(sent,kkma,write=0,n=2000,name='konlp.wlist'):
                 continue
     return mywords, freq
 
-
-
-sent = LoadDB()
+#sent = LoadDB(src='all')
+#print len(sent)
+sent = LoadDB(src='dat')
 print len(sent)
 kkma=Kkma()
 # morphs = []
@@ -120,10 +112,30 @@ kkma=Kkma()
 # for i in pos:
 #     print i[0],i[1]
 
-a=time.time()
-morphs,freq=WCountPos(sent,kkma,write=1,n=-1,name='pos.list')
-b=time.time()
-print (b-a)/60.,' minutes passed'
-for i in freq[:10]:
-    print i
+# k=31
+# n=len(sent)/k
+# for i in range(k)[2:]:
+#     a=time.time()
+#     morphs,freq=WCountPos(sent[n*i:min([n*(i+1),len(sent)-1])],kkma,write=1,n=-1,name='han_'+str(i)+'.list')
+#     b=time.time()
+#     print (b-a)/60.,' minutes passed ',i
+
+# k=42
+# n=len(sent)/k
+# for i in range(k):
+#     a=time.time()
+#     morphs,freq=WCountPos(sent[n*i:min([n*(i+1),len(sent)-1])],kkma,write=1,n=-1,name='oro_'+str(i)+'.list')
+#     b=time.time()
+#     print (b-a)/60.,' minutes passed ',i
+
+k=42
+n=len(sent)/k
+for i in range(k):
+    a=time.time()
+    morphs,freq=WCountPos(sent[n*i:min([n*(i+1),len(sent)-1])],kkma,write=1,n=-1,name='dat_'+str(i)+'.list')
+    b=time.time()
+    print (b-a)/60.,' minutes passed ',i
+
+    #for i in freq[:10]:
+    #print i
 
