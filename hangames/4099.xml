@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4099</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-10-22</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2006 한국바둑리그] 12R 4G 4국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>108</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>허영호</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>6단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>49</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>최철한</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>49</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>108</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>바둑TV 스튜디오</place>			<!-- 대국장소-->
+	<result>백 4집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>448</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion]C[];B[pd];W[dd];B[pq];W[dp];B[qo];W[gq];B[cf];W[fc];B[bd];W[qf];B[qh];W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[kp];W[pi];B[qi];W[pj];B[ph];W[ni];B[oh];W[oo];B[np];W[qn];B[rn];W[ro];B[pn];W[qm];B[po];W[rm];B[rp];W[sn];B[rk];W[qk];B[cq];W[cp];B[dq];W[eq];B[er];W[fr];B[ep];W[fq];B[bp];W[bo];B[br];W[ap];B[bq];W[cn];B[dr];W[eo];B[ci];W[rq];B[sp];W[op];B[qq];W[oq];B[mn];W[lo];B[lp];W[mo];B[nq];W[nr];B[no];W[on];B[pm];W[nn];B[mr];W[pr];B[pl];W[mm];B[ql];W[iq];B[jo];W[jm];B[jq];W[ip];B[ir];W[hr];B[ns];W[or];B[jr];W[nd];B[ne];W[me];B[nf];W[ld];B[kn];W[ln];B[io];W[km];B[jc];W[hc];B[je];W[jg];B[lb];W[lc];B[kf];W[kg];B[lf];W[mf];B[lg];W[ng];B[lh];W[nh];B[og];W[lj];B[ig];W[id];B[kc];W[jf];B[ie];W[if];B[hf];W[hg];B[ih];W[he];B[gf];W[jd];B[ke];W[kd];B[oi];W[dh];B[ch];W[df];B[ce];W[ge];B[ff];W[ef];B[fe];W[fd];B[nj];W[mj];B[fh];W[nk];B[oj];W[hh];B[jh];W[hj];B[go];W[di];B[fj];W[gi];B[fi];W[dj];B[hk];W[gk];B[gj];W[ij];B[mg];W[mi];B[md];W[mc];B[fl];W[gl]C[];B[le]C[];W[gm]C[];B[ik]C[];W[jj]C[];B[gh]C[];W[hi]C[];B[md]C[];W[mp]C[];B[mq]C[];W[hn]C[];B[ho]C[];W[fo]C[];B[kr]C[];W[cc]C[];B[bk]C[];W[se]C[];B[oc]C[];W[ob]C[];B[pb]C[];W[qb]C[];B[sf]C[];W[sd]C[];B[rf]C[];W[ki]C[];B[kh]C[];W[lq]C[];B[ms]C[];W[bc]C[];B[bm]C[];W[cl]C[];B[bl]C[];W[fk]C[];B[gn]C[];W[fn]C[];B[in]C[];W[hm]C[];B[im]C[];W[il]C[];B[ac]C[];W[ok]C[];B[pk]C[];W[os]C[];B[lr]C[];W[qr]C[];B[bb]C[];W[cb]C[];B[rr]C[];W[rs]C[];B[sq]C[];W[pp]C[];B[qp]C[];W[cj]C[];B[bj]C[];W[cm]C[];B[nl]C[];W[mk]C[];B[nm]C[];W[ba]C[];B[ab]C[];W[ej]C[];B[ml]C[];W[ll]C[];B[qs]C[];W[gp]C[];B[hp]C[];W[hq]C[];B[jp]C[];W[ps]C[];B[ck]C[];W[dk]C[];B[bn]C[];W[ee]C[];B[gs]C[];W[fs]C[];B[hs]C[];W[cg]C[];B[bg]C[];W[dg]C[];B[aq]C[];W[ao]C[];B[an]C[];W[co]C[];B[me]C[];W[bf]C[];B[bh]C[];W[cd]C[];B[be]C[];W[es]C[];B[ds]C[];W[li]C[];B[ji]C[];W[jk]PW[최철한]WR[9단]WT[]PB[허영호]BR[5단]BT[]HA[호선]KM[6.5]RE[백 4집반승]DT[20061022]OT[]PC[바둑TV 스튜디오]RO[]EV[]US[]AN[]CP[]SO[]GC[]TM[600]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

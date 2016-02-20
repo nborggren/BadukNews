@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2532</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-02-18</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				정관장배 세계여자바둑최강전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>271</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>화쉐밍</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>33</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>루이나이웨이</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>33</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>271</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>각 3시간</limittime>		<!-- 제한시간-->
+	<place>중국 북경 화룬호텔</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>113</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제1회 정관장배 4강전 준결승2국]RD[2003-02-18]PC[중국 북경 화룬호텔]TM[각 3시간]LT[60]LC[5]KO[]RE[252수 백불계승]PB[화쉐밍 ]BR[7단]PW[루이나이웨이]WR[9단]GK[1]TC[
+★결과 : 루이9단 2연승!!
+         결승진출!!
+
+오는 20일(목)에 벌어지는 장쉔8단 : 권효진3단간의 승자와 오는 3월 8,9,11일에 결승전을 가지게 된다. ];B[pd];W[dd];B[pq];W[dp];B[fq];W[hq];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[pn];B[qp];W[qf];B[pi];W[nc];B[pf];W[pg];B[of];W[qe];B[qd];W[og];B[nd];W[md];B[ng];W[od];B[pe];W[qh];B[ne];W[nh];B[mg];W[oi];B[mc];W[mh];B[lh];W[lc];B[mb];W[lg];B[kh];W[ld];B[nb];W[lf];B[pk];W[op];B[po];W[oo];B[on];W[om];B[nn];W[qm];B[nk];W[nm];B[mn];W[mm];B[ln];W[lm];B[mi];W[oj];B[ok];W[rk];B[rj];W[qk];B[pj];W[ri];B[qi];W[rh];B[lk];W[oq];B[pr];W[lp];B[kn];W[km];B[kp];W[kq];B[lq];W[lr]C[1시간동안 점심시간입니다.(현장소식)];B[mq];W[mp];B[jq];W[kr];B[jr];W[jp];B[ko];W[nq];B[ip];W[in];B[jn];W[jm];B[hp];W[gq];B[gp];W[fp];B[fo];W[fr];B[hn];W[dn];B[im];W[il];B[hm];W[co];B[bo];W[bn];B[bp];W[cm];B[rn];W[rm];B[qn];W[pm];B[jk];W[jl];B[ks];W[mr];B[or];W[no];B[cf];W[fd];B[ci];W[ce];B[df];W[hd];B[cc];W[be];B[ec];W[ed];B[fb];W[dc];B[db];W[fc];B[eb];W[bb];B[bc];W[gb];B[hb];W[gc];B[ab];W[ii];B[ji];W[ih];B[ph];W[oh];B[ik];W[kj];B[kk];W[hk];B[jg];W[ig];B[hl];W[ij];B[jj];W[nj];B[mj];W[rd];B[rc];W[se];B[if];W[hf];B[ie];W[he];B[qj];W[sj];B[jc];W[jd];B[id];W[ic];B[je];W[jb];B[kd];W[kb];B[ib];W[hc];B[kf];W[le];B[ki];W[kg];B[gk];W[hj];B[lj];W[jh];B[sc];W[qc];B[qb];W[oc];B[pc];W[sm];B[gj];W[sn];B[rp];W[fh];B[gh];W[fi];B[hg];W[jf];B[pl];W[ql];B[jg];W[ke];B[gi];W[fg];B[bf];W[bj];B[cj];W[bk];B[hh];W[jf];B[ff];W[gf];B[eg];W[ej];B[ek];W[dk];B[dj];W[fk];B[fj];W[el];B[ei];W[gl];B[ek];W[sp];B[sq];W[ej];B[sk];W[sl];B[ek];W[so];B[rq];W[ej];B[sd];W[re];B[ek];W[ds];B[br];W[ej];B[si];W[sh];B[ek];W[aq];B[cs];W[ej];B[qg];W[rg];B[ek];W[ao];B[ap];W[ej];B[eh];W[gg];B[ek];W[ar]C[화쉐밍 7단이 돌을 던졌습니다.(현장소식)]C[루이 9단 제1회 정관장배 결승 3번기에 진출했습니다.(현장소식)])</gibodata>
+</gibo>

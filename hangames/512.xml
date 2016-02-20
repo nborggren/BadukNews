@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>512</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-11-29</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2003 한국바둑리그]  
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>65</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>김명완</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>8단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>46</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>목진석</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>46</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>65</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>-</extra>			<!-- 덤-->
+	<gomi>-</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>-</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>694</readnum>		<!-- 조회수-->
+	<gibodata>(;PL[B]MN[1]VW[bb:uu];B[pd];B[qp];B[fq];B[kq];B[pn];B[rq];B[ro];B[dr];B[fo];B[mp];B[lq];B[mr];B[nr];B[ir];B[do];B[cp];B[jq];B[kp];B[ip];B[iq];B[gn];B[ep];B[eq];B[cr];B[fn];B[gr];B[kr];B[br];B[eo];B[fm];B[om];B[qo];B[nm];B[oo];B[pi];B[ls];B[ml];B[no];B[qr];B[mk];B[lm];B[jm];B[hl];B[jl];B[kk];B[ms];B[ll];B[kj];B[jj];B[nn];B[po];B[sr];B[qs];B[pg];B[qg];B[rj];B[qi];B[jd];B[df];B[ed];B[hd];B[he];B[jc];B[qc];B[pe];B[rc];B[qb];B[oc];B[nb];B[pa];B[oa];B[mb];B[lc];B[qa];B[kb];B[na];B[oe];B[ne];B[nh];B[md];B[nd];B[oi];B[og];B[ng];B[rh];B[ii];B[hi];B[fi];B[hg];B[gh];B[gi];B[ig];B[if];B[gf];B[je];B[di];B[ch];B[ej];B[dj];B[cj];B[fk];B[rf])</gibodata>
+</gibo>

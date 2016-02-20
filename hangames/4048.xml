@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4048</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-10-13</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2006 한국바둑리그] 12R 1G 4국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>27</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>양재호</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>157</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>서건우</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>4단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>157</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>27</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5집</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>바둑TV 스튜디오</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>574</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion]C[];B[qd];W[dp];B[dc];W[qp];B[cn];W[fq];B[ci];W[od];B[mc];W[qc];B[pc];W[pd];B[oc];W[nc];B[nb];W[qe];B[nd];W[rd];B[fd];W[ei];B[op];W[dk];B[ck];W[dl];B[cl];W[dm];B[cm];W[dn];B[cp];W[cq];B[do];W[eo];B[co];W[dq];B[qq];W[mq];B[pp];W[qo];B[pr];W[ql];B[jp];W[mo];B[jn];W[ko];B[jo];W[ll];B[jl];W[kj];B[on];W[ij];B[kq];W[mm];B[hq];W[pm];B[nf];W[hc];B[pg];W[og];B[of];W[pf];B[qf];W[pe];B[ph];W[ng];B[mf];W[ni];B[oi];W[nj];B[rf];W[rh];B[nh];W[mg];B[mh];W[lg];B[oh];W[qi];B[qh];W[lh];B[re];W[rb];B[oj];W[rg];B[qg];W[pk];B[ok];W[ol];B[oe];W[qd];B[nl];W[nk];B[om];W[pl];B[mi];W[lj];B[ri];W[rj];B[sc];W[sd];B[pb];W[qb];B[sb];W[ra]PW[서건우]WR[3단]WT[]PB[양재호]BR[9단]BT[]HA[호선]KM[6.5집]RE[백 불계승]DT[20061013]OT[]PC[바둑TV 스튜디오]RO[12R 1G 4국]EV[]US[]AN[]CP[]SO[]GC[]TM[600]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

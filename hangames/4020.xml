@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4020</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-10-09</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[루키스 프로리그] 리그 1국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>107</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>이영구 </playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>6단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>174</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>김대희</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>3단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>107</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>174</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>한게임 바둑 대국실</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>354</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion];B[pd];W[pp];B[cd];W[cp];B[ec];W[cj];B[ep];W[hp];B[dk];W[dj];B[ek];W[bl];B[en];W[ej];B[jq];W[io];B[mq];W[fk];B[cn];W[eq];B[fq];W[dq];B[go];W[hr];B[fr];W[bn];B[cm];W[bm];B[fl];W[gl];B[gk];W[fj];B[hl];W[gm];B[hm];W[fm];B[hn];W[el];B[jo];W[jn];B[ip];W[qn];B[qf];W[ob];B[pb];W[pc];B[oc];W[qc];B[qb];W[od];B[nc];W[qd];B[pe];W[nb];B[rb];W[mc];B[nd];W[me];B[ne];W[nf];B[md];W[ld];B[oe];W[le];B[lc];W[kc];B[mb];W[lb];B[mc];W[kq];B[jr];W[ko];B[jp];W[lq];B[kp]C[];W[lp];B[lo];W[mp];B[kn];W[nq];B[jc];W[kd];B[jb];W[kb];B[ie];W[qj];B[cg];W[gd];B[ig];W[ee];B[de];W[ed];B[dc];W[fc];B[hc];W[df];B[fb];W[hf];B[if];W[pg];B[rh];W[bf];B[cf]PW[김대희]WR[3단]WT[]PB[이영구]BR[6단]BT[]HA[]KM[6.5]RE[흑 불계승]DT[2006.10.09]OT[]PC[한게임 바둑 대국실]RO[]EV[제1기 루키스 프로리그 리그1국]US[]AN[]CP[]SO[]GC[]TM[600]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

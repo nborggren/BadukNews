@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2035</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-03-15</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				국민Pass카드배
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>45</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>안조영</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>36</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>유창혁</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>45</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>36</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>-</place>			<!-- 대국장소-->
+	<result>흑 반집승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>86</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]SU[생중계]RD[2002-03-15]PC[]BT[0:0]PB[안조영]BR[13]BC[]BD[0]WT[0:0]PW[유창혁]WR[11]WC[]WD[0]RE[흑승:흑반집승];B[qd];W[dc];B[dq];W[qq];B[ce];W[ed];B[oc];W[cn];B[cp];W[ck];B[ic];W[cd];B[pn];W[nq];B[pj];W[jd];B[jc];W[kd];B[id];W[jf];B[ie];W[mf];B[lc];W[if];B[di];W[de];B[ej];W[em];B[gp];W[pl];B[nn];W[nl];B[ln];W[ll];B[lp];W[pg];B[nj];W[kj];B[qi];W[jm];B[gm];W[jo];B[gk];W[jq];B[np];W[mq];B[qp];W[pp];B[po];W[rp];B[qo];W[rr];B[oq];W[pq];B[lq];W[op];B[ip];W[jp];B[mp];W[lr];B[kr];W[ms];B[ks];W[or];B[kq];W[oo];B[on];W[ik];B[bi];W[eo];B[fq];W[bo];B[ij];W[rl];B[jk];W[jj];B[il];W[jl];B[kk];W[lk];B[hk];W[ir];B[hr];W[jr];B[mm];W[kl];B[rn];W[nk];B[ol];W[ok];B[pk];W[om];B[ql];W[qm];B[qk];W[rm];B[pm];W[ro];B[ol];W[rd];B[in];W[jn];B[qn];W[sn];B[rk];W[sm];B[nm];W[qc];B[bm];W[bp];B[bq];W[cj];B[ci];W[bj];B[pd];W[ek];B[re];W[md];B[mc];W[rb];B[pb];W[rf];B[qe];W[se];B[dn];W[do];B[qf];W[qb];B[rg];W[sc];B[dl];W[dk];B[dm];W[cm];B[co];W[bn];B[en];W[cf];B[ih];W[jh];B[el];W[fj];B[fi];W[fk];B[hi];W[fl];B[jg];W[kh];B[fm];W[aq];B[br];W[cl];B[ig];W[kg];B[sf];W[hf];B[sd];W[fn];B[em];W[se];B[gb];W[nh];B[ni];W[eb];B[sd];W[im];B[hm];W[se];B[so];W[sp];B[sd];W[ik];B[jk];W[se];B[ng];W[mh];B[sd];W[eh];B[ei];W[se];B[ld];W[le];B[sd];W[kc];B[kb];W[jb];B[lb];W[se];B[af];W[be];B[sd];W[gl];B[hl];W[se];B[nf];W[sd];B[sb];W[sa];B[ne];W[oh];B[me];W[gd];B[gg];W[hg];B[hh];W[gr];B[hq];W[hs];B[io];W[er];B[fr];W[fs];B[eq];W[fg];B[gf];W[he];B[ff];W[ef];B[lf];W[kf];B[ke];W[je];B[ib];W[qh];B[pi];W[og];B[qg];W[ph];B[rh];W[bg];B[fh];W[eg];B[gq];W[gs];B[dr];W[bh];B[es];W[is];B[aj];W[ak];B[ai];W[bl];B[ah];W[ag];B[ls];W[mr];B[ar];W[mg];B[le];W[fb];B[gc];W[hd];B[hc];W[gj];B[fe];W[fd];B[ap];W[pf];B[dh];W[dg];B[ch];W[cg];B[qa];W[pc];B[ob];W[ga];B[ha];W[fa];B[fc];W[ec];B[pe];W[ra];B[pa];W[of];B[oe];W[no];B[mo];W[ko];B[ao];W[an];B[aq];W[lg];B[mj];W[lj];B[mi];W[li];B[sk];W[ji]C[★제36기 패왕전 결선1국\r\n○유창혁 9단 ●안조영 7단\r\n288수끝 흑반집승\r\n\r\n★2002년 3월 15일\r\n한국기원 본선대국실\r\n])</gibodata>
+</gibo>

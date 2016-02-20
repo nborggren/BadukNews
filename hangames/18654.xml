@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>18654</gseq><!-- 기보 시퀀스 -->
+	<playdate>2009-02-16</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[제22회 후지쯔배] 국내선발전 최종국
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>49</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>최철한</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo200.jpg
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>109</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>윤준상</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>7단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo136.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>49</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>109</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>3시간 60초 3회</limittime>		<!-- 제한시간-->
+	<place>한국기원 본선대국실</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>2587</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[PureMorph:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[]PC[http://www.hangame.com/]DT[]TS[]TF[]TM[180분60초5회]RE[흑 불계승]HA[호선 - 6집 반 공제]HH[1]PW[[p]윤준상]PB[[p]최철한]WR[201]BR[201]ZC[]ZT[]AN[]HC[0]VW[aa:ss]QT[60]QC[5]QF[0]N[Title]C[Summary]QK[DMessage];B[qd]QM[0]N[정답도]C[--]QA[];W[dd];B[pp];W[dp];B[fc];W[cf];B[kc];W[qj];B[pi];W[qi];B[ph];W[qh];B[qg];W[qm];B[pg];W[oc];B[pb];W[pe];B[pd];W[od];B[ne];W[qe];B[oe];W[re];B[rf];W[pc];B[qc];W[qb];B[rb];W[qa];B[pa];W[lc];B[ld];W[md];B[mc];W[lb];B[mb];W[kd];B[le];W[kb];B[jc];W[jb];B[ic];W[nd];B[ra];W[me];B[lf];W[mf];B[lg];W[of];B[rh];W[nh];B[pj];W[qk];B[nj];W[mh];B[lj];W[lh];B[kh];W[mj];B[mk];W[ki];B[li];W[ok];B[pk];W[oj];B[pl];W[oi];B[pm];W[nm];B[jg]C[])</gibodata>
+</gibo>

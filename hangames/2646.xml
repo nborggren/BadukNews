@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2646</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-04-14</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				후지쯔배
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>690</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>저우쥔쉰</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>415</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>다카오 신지 </playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>415</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>690</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>3시간</limittime>		<!-- 제한시간-->
+	<place>일본기원</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>15</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제16회 후지쯔배 16강전]RD[2003-04-14]PC[일본기원]TM[3시간]LT[60]LC[10]KO[]RE[150수 백불계승]PB[저우쥔신]BR[9단]PW[다카오 신지]WR[8단]GK[1]TC[
+다카오 신지(高尾紳路) 8단이 대만의 희망 저우쥔신(周俊勳) 9단을 150수만에 백불계로 일축하고 16강에 진출했다.
+
+다카오 8단은 8강전에서 한국의 송태곤 4단과 준결승을 다투게 된다.];B[pd];W[dd];B[pq];W[dp];B[cf];W[fc];B[bd];W[ch];B[cc];W[ce];B[be];W[df];B[dg];W[cg];B[bf];W[ef];B[mc];W[dn];B[iq];W[po];B[oo];W[on];B[op];W[pm];B[nn];W[nm];B[mm];W[mn];B[no];W[nl];B[ml];W[mk];B[ln];W[lk];B[qi];W[jp];B[ip];W[mo];B[lm];W[jo];B[io];W[jn];B[lp];W[in];B[kr];W[kq];B[lr];W[ho];B[cj];W[dh];B[cl];W[bn];B[dq];W[eq];B[er];W[dr];B[cq];W[fr];B[ep];W[fq];B[cr];W[es];B[hn];W[go];B[bo];W[co];B[cp];W[do];B[ao];W[ej];B[el];W[jr];B[jq];W[kp];B[lo];W[ir];B[jc];W[qf];B[qd];W[og];B[oi];W[pj];B[qj];W[pk];B[oh];W[qh];B[pi];W[ng];B[mi];W[ne];B[nd];W[ld];B[lc];W[qk];B[lh];W[lf];B[qo];W[jh];B[kg];W[jd];B[jg];W[ic];B[kc];W[je];B[ih];W[ki];B[nj];W[nk];B[nh];W[ii];B[rg];W[qg];B[rh];W[rf];B[rj];W[mg];B[mh];W[dk];B[bm];W[an];B[bq];W[bi];B[fj];W[dj];B[fn];W[fo];B[gl];W[hh];B[en];W[eo];B[dl];W[gn];B[hj];W[fk];B[fl];W[gj];B[jj];W[gk];B[kj];W[il];B[jl];W[kl];B[ik];W[hl];B[km];W[qn];B[ro];W[jm];B[ig];W[hi]C[])</gibodata>
+</gibo>

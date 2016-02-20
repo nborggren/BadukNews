@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>1888</gseq><!-- 기보 시퀀스 -->
+	<playdate>2005-12-08</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2005 바둑마스터즈 戰神] 본선2회전
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>39</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>김승준</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>45</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>안조영</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>39</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>45</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>30분, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>137</readnum>		<!-- 조회수-->
+	<gibodata>(;PL[B]MN[1]VW[bb:tt];B[qd];W[dp];B[cd];W[pp];B[jc];W[cm];B[qn];W[ql];B[on];W[nq];B[pk];W[ed];B[qk];W[cc];B[bc];W[dc];B[be];W[cf];B[de];W[hc];B[od];W[dg];B[ee];W[fg];B[gg];W[gh];B[ff];W[fh];B[gf];W[gd];B[hh];W[hi];B[ih];W[ii];B[ji];W[jh];B[if];W[jd];B[id];W[ic];B[kd];W[je];B[jb];W[ke];B[hd];W[fc];B[ki];W[kc];B[kb];W[lc];B[lb];W[mc];B[ld];W[mb];B[le];W[jg];B[md];W[jf];B[ig];W[ie];B[he];W[hf];B[hg];W[ge];B[hf];W[lf];B[nc];W[bb];B[ab];W[cb];B[bf];W[bg];B[ch];W[cg];B[lg];W[mf];B[ng];W[nf];B[kh];W[kf];B[of];W[oe];B[pf];W[ne];B[nd];W[pe];B[qe])</gibodata>
+</gibo>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2451</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-04-17</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				KT배 왕위전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>48</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>이세돌</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>85</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>김주호</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>7단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>48</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>85</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>4시간</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>48</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제37기 왕위전 본선9국]RD[2003-04-17]PC[한국기원]TM[4시간]LT[60]LC[5]KO[]RE[95수 흑불계승]PB[이세돌]BR[6단]PW[김주호]WR[3단]GK[1]TC[
+★ 이세돌 6단 리그 단독 선두!!
+
+- 이세돌 6단 3승무패로 단독선두를 질주중이다. 다승, 승률 1위 김주호의 기세가 이세돌을 막아내지는 못했던 것.
+
+김주호 3단은 실리가 너무 모라자서 더 버텨봐야 재미가 없다고 본 듯. 일찌감치 돌을 던졌다.
+
+
+○... 인터넷바둑은 사이버오로
+●... WWW.CYBERORO.COM];B[pd];W[dp];B[qp];W[oq];B[dd];W[qf];B[nc];W[ql];B[pq];W[op];B[qn];W[pi];B[iq];W[kq];B[fq];W[eq];B[fp];W[cn];B[jo];W[cf];B[cq];W[er];B[bo];W[co];B[cp];W[eo];B[bn];W[cm];B[bm];W[cl];B[gn];W[fc];B[ee];W[cc];B[re];W[rf];B[qe];W[of];B[pl];W[qk];B[mq];W[mr];B[lr];W[lq];B[nr];W[mp];B[ms];W[or];B[kr];W[po];B[qo];W[pn];B[qm];W[pm];B[pr];W[ps];B[cj];W[ej];B[dg];W[dc];B[dk];W[fm];B[ek];W[gm];B[en];W[fn];B[fo];W[el];B[ep];W[do];B[dq];W[fk];B[fj];W[ei];B[gk];W[fl];B[gj];W[fh];B[hn];W[hl];B[gh];W[gg];B[ik];W[bl];B[bi];W[ch];B[cg];W[il];B[fg];W[eg];B[ff];W[hk];B[hh];W[qr];B[rr]C[])</gibodata>
+</gibo>

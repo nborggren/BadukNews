@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>3014</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-01-25</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				SK엔크린배 명인전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>129</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>박승철</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>5단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>9</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>조훈현</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>9</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>129</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>101</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]SU[생중계]RD[2002-01-25]PC[한국기원]BT[0:0]PB[박승철]BR[18]BC[]BD[0]WT[0:0]PW[조훈현]WR[11]WC[]WD[0]RE[백불계승:백불계];B[pd];W[dd];B[pq];W[dp];B[cf];W[fc];B[bd];W[cg];B[dg];W[ch];B[bf];W[cc];B[dh];W[ci];B[de];W[di];B[ed];W[ec];B[cd];W[dc];B[fq];W[dn];B[jp];W[qn];B[po];W[rp];B[ql];W[pn];B[qo];W[ro];B[qq];W[pl];B[pk];W[ol];B[rm];W[rn];B[qj];W[no];B[mq];W[ok];B[oj];W[nj];B[oi];W[ni];B[nh];W[oh];B[qh];W[lp];B[mp];W[mo];B[lo];W[ko];B[ln];W[kp];B[kn];W[jo];B[nk];W[mm];B[mk];W[mi];B[kl];W[lr];B[nm];W[om];B[on];W[nl];B[ml];W[nn];B[oo];W[rq];B[rr];W[nr];B[op];W[lm];B[km];W[ll];B[lk];W[kk];B[lj];W[jl];B[jm];W[im];B[il];W[jk];B[in];W[ik];B[ki];W[hl];B[jn];W[hp];B[gn];W[go];B[hn];W[fn];B[np];W[pm];B[fm];W[fp];B[gm];W[el];B[em];W[dm];B[gk];W[fk];B[gl];W[gj];B[fj];W[hj];B[sn];W[ef];B[ee];W[ff];B[df];W[ge];B[fi];W[gh];B[jh];W[bg];B[bc];W[bb];B[cb];W[db];B[gd];W[fd];B[af];W[be];B[eh];W[ej];B[ba];W[ca];B[gi];W[hi];B[hh];W[ih];B[hg];W[ji];B[kh];W[ig];B[hf];W[sr];B[qr];W[hk];B[so];W[fh];B[fg];W[ei];B[fe];W[gf];B[gg];W[he];B[if];W[eg];B[ie];W[hd];B[id];W[hc];B[ic];W[hb]C[제33기 SK엔크린배 명인전 5국\r\n\r\n 백 조훈현 9단  흑 박승철 2단\r\n158수끝 백불계승\r\n\r\n2002년 1월 25일 한국기원\r\n])</gibodata>
+</gibo>

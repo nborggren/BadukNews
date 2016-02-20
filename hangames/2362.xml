@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2362</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-05-07</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				여류명인전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>133</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>김혜민</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>5단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>143</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>이영신</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>4단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>143</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>133</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>각 3시간</limittime>		<!-- 제한시간-->
+	<place>한국기원 본선대국실</place>			<!-- 대국장소-->
+	<result>백 반집승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>21</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제5기 여류명인전 본선1국]RD[2003-05-07]PC[한국기원 본선대국실]TM[각 3시간]LT[60]LC[5]KO[]RE[292수 백반집승]PB[김혜민]BR[2단]PW[이영신]WR[3단]GK[1]TC[
+★ 이영신, 짜릿한 반집으로 첫승!
+
+이영신 3단이 김혜민 2단을 반집차로 따돌리고 제5기 여류명인전 본선 첫대국을 승리로 장식했다.
+
+이영신 3단은 윤영선 3단 대 이정원 2단의 승자와 승자조 4강 자리를 놓고 격돌하게 된다.
+
+현 여류명인 타이틀 보유자는 루이나이웨이 9단으로 3년째 타이틀을 지키고 있다.
+
+○= 인터넷바둑은 사이버오로
+●= www.cyberoro.com];B[pd];W[dd];B[pq];W[dq];B[co];W[ep];B[ck];W[kq];B[qo];W[jc];B[cf];W[cd];B[dh];W[gd];B[mq];W[ko];B[nc];W[qi];B[qk];W[rd];B[qe];W[re];B[qg];W[pc];B[oc];W[pb];B[rf];W[pf];B[pg];W[ej];B[dj];W[dl];B[eo];W[cl];B[fo];W[gq];B[ho];W[gn];B[fp];W[fq];B[hp];W[ir];B[ei];W[fj];B[im];W[ik];B[hl];W[ci];B[di];W[hk];B[fl];W[el];B[gj];W[dn];B[do];W[gk];B[fm];W[fk];B[gh];W[oi];B[of];W[qd];B[mi];W[ok];B[mk];W[rl];B[qj];W[ql];B[ri];W[on];B[qn];W[qm];B[rn];W[ml];B[ll];W[mm];B[nk];W[ol];B[ii];W[jm];B[jl];W[il];B[hm];W[bn];B[cq];W[cr];B[dp];W[dr];B[eq];W[er];B[bo];W[jj];B[bq];W[ji];B[lm];W[np];B[nq];W[ln];B[jn];W[ih];B[rb];W[rc];B[dk];W[ek];B[hc];W[gc];B[hd];W[gb];B[hf];W[ib];B[be];W[bd];B[bl];W[bm];B[bk];W[df];B[dg];W[bg];B[jg];W[lh];B[mh];W[jh];B[bf];W[kg];B[ef];W[op];B[oq];W[pi];B[rh];W[mg];B[lk];W[de];B[cg];W[ff];B[fg];W[gf];B[hg];W[lc];B[oe];W[lr];B[mr];W[jf];B[lp];W[jo];B[kn];W[lo];B[mb];W[md];B[qb];W[sb];B[ra];W[qc];B[se];W[sd];B[pa];W[ob];B[sf];W[oa];B[nb];W[qa];B[lq];W[kr];B[pa];W[nd];B[od];W[qa];B[hq];W[hr];B[pa];W[pp];B[qp];W[qa];B[fr];W[gr];B[pa];W[qq];B[rq];W[qa];B[nl];W[nm];B[pa];W[qr];B[rr];W[qa];B[pn];W[pm];B[pa];W[in];B[km];W[qa];B[kp];W[sa];B[jq];W[pk];B[jr];W[io];B[em];W[cm];B[ad];W[ac];B[ae];W[bc];B[he];W[gg];B[hh];W[fh];B[fi];W[eg];B[hb];W[ha];B[eh];W[fg];B[kb];W[lb];B[la];W[br];B[ge];W[fe];B[je];W[ke];B[kc];W[kd];B[jd];W[fd];B[ic];W[jb];B[ka];W[ia];B[ig];W[ng];B[oo];W[no];B[po];W[mp];B[if];W[hj];B[kf];W[lf];B[gi];W[li];B[iq];W[js];B[is];W[hs];B[ls];W[hn];B[og];W[ne];B[nf];W[mf];B[mc];W[ld];B[hi];W[ar];B[jk];W[ij];B[kj];W[lj];B[ni];W[kk];B[kl];W[ki];B[al];W[sn];B[so];W[sm];B[sk];W[rk];B[rj];W[ep];B[aq];W[ao];B[eq];W[sp];B[ro];W[ep];B[ap];W[an];B[eq];W[rm];B[rp];W[ep];B[ks];W[eq];B[kk];W[is];B[jf];W[ga];B[sj];W[nh];B[jm];W[mn]C[])</gibodata>
+</gibo>

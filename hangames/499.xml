@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>499</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-11-22</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2003 한국바둑리그]  
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>24</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>최규병</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>40</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>이상훈大</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>40</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>24</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>-</extra>			<!-- 덤-->
+	<gomi>-</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>-</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>656</readnum>		<!-- 조회수-->
+	<gibodata>(;PL[B]MN[1]VW[bb:uu];B[qd];B[dd];B[qn];B[pj];B[lc];B[pd];B[qe];B[rg];B[pb];B[me];B[rf];B[og];B[mg];B[mi];B[pl];B[qk];B[qi];B[rp];B[qm];B[pn];B[rl];B[oo];B[qq];B[gd];B[fq];B[jp];B[no];B[cl];B[el];B[cn];B[fr];B[cq];B[bp];B[br];B[bq];B[jn];B[ro];B[rj];B[bm];B[dm];B[cs];B[en];B[gn];B[fp];B[go];B[hp];B[ip];B[ng];B[kq];B[kr];B[ml];B[pc];B[nb];B[kd];B[oc];B[jc];B[jb];B[nc];B[mn];B[rr];B[sq];B[ch];B[mc];B[je];B[bo];B[co];B[ko];B[do];B[cd];B[dc];B[cb];B[lg];B[fn];B[fl];B[eb];B[dg];B[eh];B[fj];B[kn];B[mm];B[lo];B[ho];B[gs];B[lk];B[kk];B[ji];B[kj];B[ll];B[ih];B[jd];B[ii];B[gk];B[gj])</gibodata>
+</gibo>

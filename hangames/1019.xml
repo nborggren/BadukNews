@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>1019</gseq><!-- 기보 시퀀스 -->
+	<playdate>2004-11-12</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[박카스배 천원전] 결승 1국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>82</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>안달훈</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo111.jpg
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>49</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>최철한</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo200.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>49</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>82</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>-</extra>			<!-- 덤-->
+	<gomi>-</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>-</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>1137</readnum>		<!-- 조회수-->
+	<gibodata>(;PL[B]MN[1]VW[bb:uu];B[qd];W[dc];B[pq];W[cp];B[de];W[po];B[qo];W[ce];B[dd];W[pp];B[qp];W[cd];B[ec];W[oq];B[qn];W[cf];B[db];W[pr];B[qq];W[cc];B[jc];W[jq];B[fd];W[np];B[eg];W[kd];B[jd];W[od];B[oc];W[nc];B[pc];W[nf];B[eq];W[dq];B[ep];W[dn];B[ip];W[iq];B[hp];W[gq];B[fo];W[cl];B[jp];W[gp];B[go];W[kp];B[ko];W[lp];B[dm];W[cn];B[ke];W[qf];B[pe];W[le];B[kf];W[pf];B[qk];W[nb];B[oe];W[ne];B[of];W[og];B[ng];W[oh];B[pd];W[nd];B[mg];W[qb];B[qh];W[qg];B[pa];W[re];B[sb];W[rd];B[rc];W[ra];B[lb];W[sd];B[en];W[dl];B[el];W[ei];B[ej];W[fi])</gibodata>
+</gibo>

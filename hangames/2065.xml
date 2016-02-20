@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2065</gseq><!-- 기보 시퀀스 -->
+	<playdate>2001-11-19</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				국제아마추어페어선수권대회
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq></playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>임동균 배윤진</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단 초단단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq></playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>림현철 권미현</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>6단단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq></winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq></defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>-</extra>			<!-- 덤-->
+	<gomi>-</gomi>			<!-- 치수-->
+	<limittime>각45분</limittime>		<!-- 제한시간-->
+	<place>일본 도쿄 메트로폴리탄 호텔</place>			<!-- 대국장소-->
+	<result>백불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>180</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제11회 국제아마페어선수권대회]RD[2000-11-19]PC[일본 도쿄 메트로폴리탄 호텔]TM[각45분]LT[]LC[]KO[]RE[백불계승]PB[임동균 배윤진]BR[7단 초단]PW[림현철 권미현]WR[6단]GK[1]TC[북한팀이 처녀출전하여 첫세계대회우승을 기록한 한 판. 남북정상회담 직후의 화해무드 때문인지 친근한 분위기였다고 함.
+흑39는 40의 한 간 아래로 두는 것이 좋음.
+흑61은 무리수.
+흑77은 88에 마늘모할 자리.
+
+];B[pd];W[dd];B[pq];W[dp];B[qk];W[nc];B[pf];W[pb];B[fq];W[cn];B[fc];W[id];B[cf];W[fd];B[gd];W[fe];B[cc];W[ec];B[cd];W[fb];B[jp];W[po];B[np];W[ok];B[ol];W[no];B[nl];W[qq];B[qr];W[pr];B[oq];W[rr];B[qp];W[rq];B[pp];W[lo];B[mp];W[lm];B[mo];W[lj];B[me];W[jn];B[mc];W[md];B[ld];W[nd];B[lb];W[nb];B[lf];W[qc];B[jj];W[of];B[og];W[nf];B[ng];W[pg];B[ph];W[qg];B[qh];W[rf];B[qf];W[rg];B[re];W[rh];B[ri];W[qi];B[pi];W[qj];B[rj];W[mg];B[pj];W[qe];B[pe];W[qd];B[mf];W[ne];B[if];W[mh];B[ni];W[kh];B[jd];W[ic];B[ie];W[kf];B[jc];W[ib];B[jg];W[kg];B[je];W[jl];B[ii];W[ml];B[kk];W[mk];B[im];W[il];B[in];W[gl];B[km];W[jm];B[kn];W[kl];B[lk];W[jh];B[ih];W[ji];B[hj];W[kj];B[jk];W[ko];B[mn];W[ln];B[dr];W[hg];B[ig];W[cq];B[fj];W[ck];B[rp];W[sp];B[so];W[sq];B[ro];W[hq];B[gp];W[hp];B[ho];W[io];B[ip];W[jo];B[go];W[kq];B[iq];W[hr];B[ir];W[jr];B[hs];W[ch];B[db];W[cr];B[bi];W[ci];B[bh];W[bj];B[cg];W[hn];B[dj];W[cj];B[ge];W[gc];B[ff];W[ef];B[fg];W[er];B[fr];W[ds]C[])</gibodata>
+</gibo>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4869</gseq><!-- 기보 시퀀스 -->
+	<playdate>2007-04-12</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[한게임 월간랭킹전] 16강전
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq></playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>빈칼자객</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq></playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>술췌따</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq></winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq></defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>한게임 바둑 대국실</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>168</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion];B[pd];W[dd];B[pq];W[dp];B[fq];W[cn];B[ip];W[qn];B[po];W[rp];B[pk];W[pn];B[on];W[kq];B[om];W[qq];B[qr];W[rr];B[qp];W[rq];B[jq];W[nq];B[oo];W[kp];B[jn];W[kn];B[km];W[lm];B[ko];W[lo];B[ln];W[mn];B[kn];W[mp];B[mm];W[jr];B[ir];W[jp];B[iq];W[or];B[pr];W[rm];B[fc];W[ll];B[ml];W[lk];B[nn];W[mo];B[kr];W[lr];B[js];W[ls];B[rk];W[mk];B[qo];W[ro];B[pm];W[rl];B[lq];W[lp];B[qm];W[rn];B[jk];W[mh];B[li];W[nj];B[oi];W[kj];B[cf];W[df];B[dg];W[ef];B[ce];W[cd];B[cj];W[ec];B[fd];W[de];B[jd];W[pf];B[og];W[of];B[ng];W[od];B[oc];W[nd];B[pc];W[nc];B[nf];W[pe];B[re];W[rf];B[rd];W[lc];B[ii];W[jh];B[ji];W[nl];B[nm];W[ki];B[kh];W[kg];B[lh];W[lg];B[jg];W[pi];B[ih];W[oj];B[pj];W[qi];B[mg];W[ni];B[oh];W[le];B[mi];W[nh];B[nk];W[ok];B[mj]PW[술췌따]WR[9단]WT[]PB[빈칼자객]BR[9단]BT[]HA[호선]KM[6.5집]RE[흑 불계승]DT[20070412]OT[]PC[한게임 바둑 대국실]RO[16강전]EV[월간 랭킹전]US[]AN[]CP[]SO[]GC[]TM[600]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

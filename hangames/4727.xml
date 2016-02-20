@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4727</gseq><!-- 기보 시퀀스 -->
+	<playdate>2007-03-13</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[중국 서남왕전] 8강전
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>710</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>천시아오난</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>3단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>311</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>구링이</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>5단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>311</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>710</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>7.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분, 30초 1회</limittime>		<!-- 제한시간-->
+	<place>중국 청두</place>			<!-- 대국장소-->
+	<result>백 2집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>87</readnum>		<!-- 조회수-->
+	<gibodata>(;B[qd]C[];W[cc]C[];B[pp]C[];W[dp]C[];B[oc]C[];W[qj]C[];B[cn]C[];W[fq]C[];B[bp]C[];W[cq]C[];B[ck]C[];W[nq]C[];B[qn]C[];W[pr]C[];B[qq]C[];W[qg]C[];B[lq]C[];W[op]C[];B[on]C[];W[qr]C[];B[lo]C[];W[pq]C[];B[qp]C[];W[oo]C[];B[nn]C[];W[po]C[];B[qo]C[];W[rq]C[];B[rp]C[];W[rr]C[];B[rk]C[];W[qk]C[];B[rl]C[];W[rj]C[];B[hq]C[];W[jc]C[];B[ce]C[];W[ed]C[];B[dg]C[];W[hd]C[];B[bq]C[];W[dn]C[];B[dm]C[];W[en]C[];B[em]C[];W[fm]C[];B[cp]C[];W[dq]C[];B[ek]C[];W[mc]C[];B[rf]C[];W[qc]C[];B[pc]C[];W[rd]C[];B[re]C[];W[rb]C[];B[pe]C[];W[pb]C[];B[ob]C[];W[sc]C[];B[og]C[];W[ql]C[];B[qm]C[];W[ol]C[];B[mr]C[];W[nr]C[];B[fd]C[];W[fe]C[];B[dd]C[];W[ec]C[];B[ee]C[];W[fc]C[];B[ff]C[];W[ge]C[];B[pa]C[];W[qb]C[];B[mb]C[];W[lc]C[];B[oi]C[];W[sk]C[];B[om]C[];W[nl]C[];B[lm]C[];W[ll]C[];B[km]C[];W[hp]C[];B[iq]C[];W[gq]C[];B[qh]C[];W[rh]C[];B[qi]C[];W[ri]C[];B[rg]C[];W[rm]C[];B[rn]C[];W[sl]C[];B[bc]C[];W[bb]C[];B[dc]C[];W[db]C[];B[cd]C[];W[cb]C[];B[go]C[];W[gp]C[];B[fn]C[];W[ip]C[];B[jq]C[];W[fo]C[];B[gn]C[];W[ef]C[];B[eg]C[];W[gg]C[];B[br]C[];W[hr]C[];B[ir]C[];W[gs]C[];B[eo]C[];W[do]C[];B[fp]C[];W[in]C[];B[hm]C[];W[im]C[];B[il]C[];W[jl]C[];B[ik]C[];W[kr]C[];B[jp]C[];W[jm]C[];B[kl]C[];W[jk]C[];B[ij]C[];W[kk]C[];B[ml]C[];W[mk]C[];B[lk]C[];W[lj]C[];B[ll]C[];W[ki]C[];B[lr]C[];W[ih]C[];B[gh]C[];W[hh]C[];B[gf]C[];W[gi]C[];B[hf]C[];W[fh]C[];B[ei]C[];W[de]C[];B[df]C[];W[ee]C[];B[fg]C[];W[nh]C[];B[oh]C[];W[bd]C[];B[be]C[];W[ac]C[];B[nc]C[];W[fj]C[];B[fk]C[];W[lb]C[];B[la]C[];W[ka]C[];B[ma]C[];W[kc]C[];B[ds]C[];W[dr]C[];B[ae]C[];W[cf]C[];B[bf]C[];W[cg]C[];B[bg]C[];W[cs]C[];B[mf]C[];W[nd]C[];B[ne]C[];W[md]C[];B[od]C[];W[ep]C[];B[ja]C[];W[kb]C[];B[mj]C[];W[lh]C[];B[nk]C[];W[lf]C[];B[ie]C[];W[mg]C[];B[me]C[];W[mp]C[];B[lp]C[];W[qa]C[];B[oa]C[];W[gk]C[];B[gl]C[];W[ej]C[];B[dj]C[];W[eh]C[];B[dh]C[];W[is]C[];B[js]C[];W[hs]C[];B[fs]C[];W[gr]C[];B[cr]C[];W[es]C[];B[bs]C[];W[jr]C[];B[ok]C[];W[pl]C[];B[id]C[];W[ic]C[];B[ds]C[];W[er]C[];B[le]C[];W[kf]C[];B[jg]C[];W[jh]C[];B[kg]C[];W[jf]C[];B[ig]C[];W[lg]C[];B[hg]C[];W[fi]C[];B[di]C[];W[co]C[];B[bo]C[];W[ng]C[];B[mi]C[];W[nf]C[];B[kh]C[];W[jj]C[];B[li]C[];W[ke]C[];B[of]C[];W[he]C[];B[if]C[];W[fo]C[];B[kj]C[];W[ji]C[];B[hk]C[];W[gj]C[];B[gh]C[];W[hi]C[];B[jo]C[];W[hn]C[];B[pj]C[];W[jn]C[];B[kn]C[];W[so]C[];B[sn]C[];W[sp]C[];B[no]C[];W[np]C[];B[kq]C[];W[ks]C[];B[ns]C[];W[os]C[];B[sm]C[];W[rl]C[];B[ad]C[];W[bc]C[];B[se]C[];W[sd]C[];B[sh]C[];W[si]C[];B[sg]C[];W[nm]C[];B[mm]C[];W[ni]C[];B[nj]C[];W[mo]C[];B[mn]C[];W[ms]C[];B[ls]C[];W[js]C[];B[fl]C[];W[ns]C[];B[gm]C[];W[ho]C[];B[oe]C[];W[kd]C[];B[gg]C[];W[lj]C[];B[pk]C[];W[sq]C[];B[hl]C[];W[mh]C[];B[ii]C[];W[hj]C[];B[jd]C[];W[kj]C[];B[cs]C[];W[ld]C[];B[je]C[];W[io]C[];B[pn]C[];W[pm]C[];B[ro]C[];W[mq]GN[중국 서남왕전 8강전]PW[구링이]WR[3단]WT[]PB[천시아오난]BR[3단]BT[]HA[호선]KM[7.5]RE[백 2집반승]DT[20070313]OT[]PC[중국 청도]RO[]EV[]US[]AN[]CP[]SO[]GC[]TM[600]TS[00:00:00]TF[00:00:00]ZT[30]ZC[1])</gibodata>
+</gibo>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>17932</gseq><!-- 기보 시퀀스 -->
+	<playdate>2008-10-17</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[월드마인드스포츠] 남자단체전 3-4위전
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>688</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>천스위엔</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>385</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>요다 노리모토 </playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/japan/pro_photo133.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>385</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>688</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>1시간 60초 3회</limittime>		<!-- 제한시간-->
+	<place>중국 베이징 국제회의장</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>114</readnum>		<!-- 조회수-->
+	<gibodata>(;TE[제1회 세계마인드스포츠 남자단체전]RD[2008-10-17]PC[중국 베이징 국제회의장]TM[각 1시간]LT[60]LC[3]KO[6.5]RE[124수 백불계승]PB[천스위엔   ]BR[7단]PW[요다 노리모토]WR[9단]GK[1]TC[
+○= 세계인터넷바둑의 허브
+●= www.cyberoro.com];B[qd];W[oc];B[dd];W[fc];B[cf];W[db];B[dq];W[oq];B[cc];W[ic];B[qq];W[po];B[hd];W[hc];B[qo];W[qn];B[pn];W[pp];B[qp];W[qm];B[on];W[no];B[pl];W[ql];B[pk];W[qk];B[pj];W[pr];B[rn];W[rm];B[ro];W[qj];B[qr];W[pi];B[lp];W[mq];B[lq];W[pm];B[nl];W[om];B[nn];W[lo];B[nm];W[mp];B[ko];W[ln];B[nj];W[kp];B[od];W[pc];B[pd];W[qh];B[nc];W[nb];B[mb];W[mc];B[nd];W[lb];B[ob];W[ma];B[pb];W[kq];B[co];W[fq];B[eo];W[dj];B[cl];W[cg];B[dg];W[ch];B[bf];W[fj];B[gp];W[dr];B[cr];W[dp];B[eq];W[fp];B[ep];W[fo];B[fn];W[go];B[gn];W[ho];B[hn];W[er];B[io];W[cq];B[bq];W[in];B[ip];W[im];B[hl];W[gr];B[ei];W[ej];B[hj];W[en];B[do];W[dl];B[dm];W[em];B[el];W[fl];B[dk];W[hm];B[gl];W[gm];B[fk];W[fm];B[ek];W[gj];B[gk];W[hi];B[gi];W[ij];B[hk];W[fi];B[gh];W[fh];B[gg];W[ef];B[df];W[gf]C[])</gibodata>
+</gibo>

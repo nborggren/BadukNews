@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2795</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-04-10</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				KBS 바둑왕전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>64</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>이성재</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>8단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>44</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>김성룡</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>44</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>64</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>한국기원 </place>			<!-- 대국장소-->
+	<result>백 반집승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>79</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]SU[생중계]RD[2002-04-10]PC[한국기원 ]BT[0:0]PB[이성재]BR[13]BC[]BD[0]WT[0:0]PW[김성룡]WR[13]WC[]WD[0]RE[백승:0.5];B[pd];W[dd];B[pp];W[dp];B[fq];W[dn];B[dr];W[nq];B[cq];W[qn];B[np];W[mp];B[no];W[mo];B[oq];W[mq];B[nn];W[qq];B[qp];W[rp];B[nr];W[rr];B[mr];W[kp];B[mn];W[pr];B[kq];W[jq];B[lq];W[jp];B[or];W[kn];B[ln];W[kl];B[ci];W[cg];B[cl];W[fp];B[gq];W[gp];B[el];W[nc];B[qf];W[pb];B[qc];W[kc];B[dc];W[cc];B[ec];W[cb];B[ed];W[de];B[ib];W[od];B[jd];W[pe];B[qe];W[pc];B[qd];W[gd];B[kd];W[lc];B[hc];W[ee];B[gc];W[qk];B[ko];W[jn];B[lp];W[hq];B[hr];W[cp];B[hp];W[ho];B[iq];W[ip];B[hq];W[dk];B[dl];W[gn];B[bh];W[bg];B[ei];W[qh];B[gl];W[bq];B[br];W[dq];B[cr];W[bm];B[bl];W[qb];B[oe];W[ne];B[of];W[rc];B[rd];W[rb];B[rg];W[fj];B[hk];W[fi];B[eh];W[hi];B[ek];W[gg];B[qj];W[pj];B[qm];W[rm];B[qi];W[rk];B[pi];W[nf];B[og];W[ea];B[jc];W[kb];B[ag];W[fd];B[fc];W[af];B[ah];W[be];B[he];W[ff];B[fa];W[da];B[hd];W[oj];B[oi];W[pm]C[132수 이하 줄임. 백1집반승\r\n])</gibodata>
+</gibo>

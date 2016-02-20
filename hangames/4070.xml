@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4070</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-10-17</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2006 한게임 마스터즈 서바이벌] 6R
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>152</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>김효곤 </playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>4단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>134</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>박승현</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>5단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>152</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>134</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>5분, 30초 1회</limittime>		<!-- 제한시간-->
+	<place>한게임 바둑 대국실</place>			<!-- 대국장소-->
+	<result>흑 3집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>51</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion];B[qd];W[dc];B[pq];W[dp];B[de];W[ce];B[cf];W[cd];B[fq];W[cn];B[df];W[fc];B[dj];W[po];B[pl];W[mo];B[nq];W[op];B[oq];W[qp];B[qq];W[qj];B[ok];W[qg];B[oi];W[og];B[od];W[mc];B[ne];W[kd];B[ph];W[qe];B[pe];W[rf];B[pg];W[rd];B[ko];W[qm];B[ql];W[pm];B[dr];W[bh];B[dd];W[cc];B[ch];W[cq];B[ie];W[qc];B[pc];W[pd];B[qb];W[qd];B[ob];W[kf];B[ic];W[jg];B[kb];W[kc];B[lb];W[pf]C[];B[of];W[oe];B[nf];W[nd];B[pe];W[hd];B[id];W[oe];B[oc];W[mb];B[pe];W[hg];B[gd];W[gc];B[gf];W[ib];B[hb];W[he];B[hf];W[hc];B[jb];W[if];B[md];W[lc];B[ia];W[gb];B[jc];W[ga];B[ha];W[ij];B[cl];W[bl];B[bk];W[io];B[fo];W[gp];B[fp];W[cr];B[il];W[iq];B[je];W[lg];B[gq];W[kp];B[lp];W[lo];B[kq];W[jp];B[kn];W[jm];B[lm];W[jl];B[mp];W[no];B[lk];W[ik];B[hl];W[gn];B[hp];W[ho];B[gk];W[fn];B[hq];W[jq];B[go];W[en];B[kh];W[kj];B[lh];W[lj];B[jh];W[ih];B[qh];W[kg];B[nm];W[om];B[rl];W[rh];B[ri];W[nl];B[mk];W[nk];B[mj];W[mm];B[rb];W[mi];B[nj];W[mh];B[qf];W[er];B[fr];W[pf];B[ec];W[eb];B[qf];W[ds];B[hr];W[pf];B[ml];W[nn];B[qf];W[jr];B[is];W[pf];B[kk];W[fh];B[bg];W[oe];B[jk];W[ln];B[km];W[im];B[pe];W[qi];B[sh];W[sg];B[rg];W[ir];B[qf];W[gs];B[jj];W[ji];B[hs];W[fs];B[kr];W[js];B[ff];W[gi];B[eq];W[dq];B[jo];W[ip];B[ks];W[in];B[hm];W[hn];B[gj];W[hi];B[bm];W[bn];B[ke];W[le];B[me];W[ld];B[el];W[np];B[mq];W[mg];B[be];W[bd];B[an];W[ao];B[am];W[bo];B[ro];W[rp];B[rm];W[rr];B[rq];W[sq];B[qr];W[ae];B[ei];W[bf];B[ag];W[fi];B[eh];W[cm];B[al];W[ed];B[dm];W[dn];B[qn];W[kl];B[ll];W[fj];B[pn];W[on];B[ol];W[pp];B[nm];W[nl];B[fk];W[ej];B[ek];W[em];B[dl];W[ge];B[fe];W[fd];B[gg];W[gh];B[jf];W[ig];B[rs];W[sr];B[so];W[sp];B[ng];W[ee];B[ef];W[di];B[dh];W[af];B[ci];W[nh];B[oh];W[qo];B[rn];W[fg];B[nc];W[eg];B[dg];W[la];B[ka];W[ma];B[hj];W[oa];B[pa];W[na];B[nk];W[nm];B[hk];W[ii];B[gm];W[fm];B[fl];W[ss];B[qs];W[lf];B[ni];W[jn];B[nb];W[mf];B[jd]PW[박승현]WR[5단]WT[]PB[김효곤]BR[4단]BT[]HA[]KM[6.5]RE[흑 3집반승]DT[2006.10.17]OT[]PC[한게임 바둑 대국실]RO[]EV[2006 한게임 마스터즈 서바이벌 6R]US[]AN[]CP[]SO[]GC[]TM[300]TS[00:00:00]TF[00:00:00]ZT[30]ZC[1])</gibodata>
+</gibo>

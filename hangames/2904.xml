@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2904</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-04-30</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				LG배 세계기왕전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>707</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>장밍주</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>30</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>장주주</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>30</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>707</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>3시간</limittime>		<!-- 제한시간-->
+	<place>인터컨티넨털 호텔</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>47</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제7회 LG배 본선1회전]RD[2002-04-30]PC[인터컨티넨털 호텔]TM[3시간]LT[60]LC[5]KO[]RE[백불계승]PB[장밍주]BR[7단]PW[장주주]WR[7단]GK[1]TC[장주주 9단과 장밍주 7단의
+형제대결.
+두사람은 친형제간으로
+세계대회 최초의 
+형제간 혈육대국으로 기록되게 되었다.];B[pd];W[dd];B[pq];W[dp];B[fq];W[hq];B[dn];W[fp];B[gp];W[gq];B[cp];W[eq];B[cq];W[qn];B[qp];W[qk];B[qi];W[nc];B[pf];W[qc];B[pc];W[pb];B[ob];W[qb];B[oc];W[re];B[ic];W[qf];B[pg];W[fc];B[ie];W[cl];B[fr];W[er];B[fo];W[ep];B[cn];W[di];B[cd];W[ce];B[be];W[cc];B[bd];W[cf];B[bf];W[cg];B[bg];W[ch];B[bc];W[cb];B[bh];W[bi];B[bb];W[nb];B[na];W[le];B[lc];W[jc];B[jd];W[kc];B[kd];W[lb];B[kb];W[jb];B[mb];W[ka];B[mc];W[ib];B[hc];W[hb];B[kh];W[pj];B[oi];W[nq];B[oo];W[lp];B[pm];W[qm];B[jp];W[hp];B[pl];W[pi];B[ph];W[oj];B[nj];W[ni];B[oh];W[nk];B[mj];W[ql];B[mk];W[kp];B[jn];W[jq];B[ro];W[nl];B[mm];W[nm];B[nn];W[ml];B[ll];W[on];B[mn];W[pn];B[gi];W[ba];B[ed];W[dc];B[cj];W[dj];B[bj];W[ci];B[ah];W[hf];B[gc];W[fd];B[ge];W[hj];B[gj];W[hl];B[ij];W[lk];B[lj];W[hi];B[hk];W[gk];B[ik];W[hh];B[fk];W[gl];B[fh];W[fg];B[fl];W[gh];B[fj];W[jg];B[kg];W[kk];B[kj];W[jf];B[kf];W[gn];B[fm];W[ai];B[gb];W[fb];B[kl];W[bm];B[bn];W[or];B[pr];W[he];B[gd];W[fe];B[gf];W[gg];B[ke];W[cs];B[dl];W[dk];B[br];W[rg];B[rh];W[rn];B[oq];W[nr];B[np];W[fn];B[cm];W[bl];B[mq];W[mr];B[mp];W[lq];B[lo];W[ga];B[ko];W[kr];B[rj];W[rk];B[hn];W[gm];B[bs];W[en];B[em];W[qg]C[])</gibodata>
+</gibo>

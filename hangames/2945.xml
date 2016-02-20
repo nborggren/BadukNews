@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2945</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-08-01</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				GS칼텍스배 프로기전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>104</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>안영길</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>6단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>43</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>최명훈</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>43</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>104</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>4시간</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>26</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제7기 LG정유배 프로기전 10국]RD[2002-08-01]PC[한국기원]TM[4시간]LT[60]LC[5]KO[]RE[238수 백불계승]PB[안영길]BR[4단]PW[최명훈]WR[8단]GK[1]TC[
+★ LG정유배의 사나이 - 최명훈
+
+- 최명훈 8단은 LG정유배의 사나이이다. 이창호 9단과도 동년배 라이벌로써 의의가 깊은 기전임과 동시에 한번의 우승과 세번의 준우승을 일궜던 인연깊은 대회이다.
+
+- 이번대회는 세번이나 우승을 가로막았던 이창호 9단이 일찌감치 탈락했다. 최명훈 8단의 4강 진출이 예사롭지 않다.
+
+○... 인터넷바둑은 사이버오로
+●... WWW.CYBERORO.COM
+];B[qd];W[dc];B[dq];W[pp];B[ce];W[ed];B[oc];W[cn];B[cp];W[ck];B[ci];W[jc];B[ei];W[ek];B[qn];W[nq];B[rp];W[qq];B[qk];W[mc];B[ef];W[cd];B[be];W[hd];B[lq];W[ip];B[on];W[no];B[jo];W[fp];B[nn];W[lo];B[jp];W[jq];B[iq];W[kq];B[kp];W[lr];B[ir];W[lp];B[hp];W[do];B[bn];W[bm];B[co];W[dn];B[ep];W[eo];B[bo];W[fq];B[fo];W[go];B[fn];W[gp];B[gm];W[hn];B[in];W[hm];B[gk];W[km];B[fk];W[bi];B[jl];W[hk];B[jm];W[cr];B[eq];W[jk];B[dr];W[hj];B[dl];W[dk];B[cl];W[el];B[bl];W[fm];B[bk];W[cj];B[bj];W[di];B[ch];W[dh];B[dg];W[eh];B[fh];W[fi];B[fr];W[gr];B[gs];W[gn];B[eg];W[ej];B[bc];W[qf];B[qh];W[of];B[nd];W[rh];B[qi];W[pd];B[qc];W[mf];B[md];W[lc];B[ng];W[nf];B[cb];W[db];B[ni];W[rq];B[pe];W[pf];B[kd];W[kc];B[kk];W[ld];B[kg];W[lf];B[lm];W[kj];B[jj];W[ji];B[ik];W[li];B[lj];W[ki];B[mi];W[mm];B[ii];W[lh];B[ij];W[mh];B[ig];W[hi];B[ge];W[gd];B[gh];W[hh];B[hg];W[ih];B[gi];W[lk];B[fj];W[ei];B[gj];W[il];B[jk];W[jg];B[gl];W[hl];B[jf];W[jh];B[ie];W[ll];B[hr];W[ol];B[nl];W[nk];B[ok];W[cg];B[bh];W[bg];B[ai];W[pk];B[oj];W[pm];B[pn];W[pj];B[pi];W[nm];B[om];W[pl];B[ql];W[ro];B[rn];W[sp];B[rg];W[rf];B[sh];W[sc];B[rc];W[cc];B[bb];W[bd];B[ad];W[ba];B[ca];W[da];B[ae];W[sd];B[sb];W[nb];B[se];W[pb];B[ob];W[oa];B[pc];W[sf];B[qb];W[he];B[gf];W[ml];B[qj];W[jr];B[js];W[mq];B[gq];W[fe];B[ff];W[ab];B[ac];W[kf];B[id];W[ic];B[qm];W[nl];B[jd];W[oh];B[oi];W[nh];B[mn];W[pa];B[qa];W[na];B[mj];W[ln];B[cm];W[qg];B[ri];W[re];B[nc];W[mb];B[oe];W[ks];B[mo];W[de];B[ee];W[fd]C[])</gibodata>
+</gibo>

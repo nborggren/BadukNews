@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>5529</gseq><!-- 기보 시퀀스 -->
+	<playdate>2007-09-07</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[일본 名人戰] 도전1국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>415</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>다카오 신지 </playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>400</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>장쉬</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>415</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>400</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>8시간, 60초 10회</limittime>		<!-- 제한시간-->
+	<place>일본 히로시마현</place>			<!-- 대국장소-->
+	<result>흑 4집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>1051</readnum>		<!-- 조회수-->
+	<gibodata>(;TE[제32기 일본 명인전 도전1국]RD[2007-09-07]PC[일본 히로시마현]TM[각 8시간]LT[60]LC[10]KO[6.5]RE[198수 흑4집반승]PB[다카오 신지]BR[9단]PW[장쉬]WR[9단]GK[1]TC[
+○= 세계인터넷바둑의 허브
+●= www.cyberoro.com]B[qd];W[qp];B[dc];W[cp];B[op];W[od];B[eq];W[qc];B[pn];W[oq];B[nq];W[pq];B[np];W[do];B[hp];W[fo];B[gp];W[cf];B[di];W[ck];B[ef];W[jc];B[hm];W[pg];B[pc];W[pd];B[qb];W[rc];B[oc];W[rb];B[nd];W[nc];B[mc];W[nb];B[oe];W[pe];B[pf];W[qe];B[qf];W[re];B[ne];W[of];B[mb];W[pb];B[le];W[og];B[je];W[fc];B[hc];W[hb];B[ib];W[dd];B[cc];W[ec];B[cd];W[ic];B[hd];W[gb];B[de];W[bi];B[oi];W[qi];B[ek];W[ed];B[ce];W[pl];B[ok];W[ol];B[nl];W[pk];B[nm];W[mg];B[lh];W[el];B[fl];W[dl];B[fm];W[ni];B[mi];W[nj];B[mj];W[nk];B[mk];W[po];B[nh];W[oj];B[pj];W[ok];B[pm];W[ge];B[kc];W[jb];B[gf];W[kf];B[ng];W[nf];B[mf];W[oh];B[mh];W[ff];B[fg];W[ke];B[kd];W[ld];B[md];W[hf];B[fe];W[he];B[hg];W[lf];B[me];W[jf];B[jd];W[if];B[id];W[gd];B[ia];W[ja];B[lg];W[db];B[cb];W[eb];B[ig];W[nr];B[mr];W[or];B[om];W[ej];B[dj];W[dk];B[fk];W[dh];B[ei];W[dr];B[er];W[rl];B[cr];W[pp];B[ms];W[oo];B[no];W[qm];B[qn];W[rn];B[bq];W[cq];B[br];W[bp];B[ap];W[ao];B[aq];W[bn];B[bg];W[dq];B[ds];W[bf];B[cg];W[dg];B[df];W[ch];B[be];W[eh];B[fh];W[go];B[ho];W[ma];B[la];W[na];B[kb];W[ha];B[gn];W[ca];B[ba];W[da];B[cj];W[bj];B[bb];W[fp];B[fq];W[bh];B[af];W[ah];B[en];W[dn];B[em];W[dm];B[on];W[ka];B[ns];W[os];B[qo];W[ro];B[lb];W[kg];B[kh];W[jg];B[jh];W[ee]C[])</gibodata>
+</gibo>

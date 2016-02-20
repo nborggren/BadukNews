@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>414</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-09-25</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[강원랜드배 명인전]  
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>68</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>송태곤</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>8단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>36</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>유창혁</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>36</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>68</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>-</extra>			<!-- 덤-->
+	<gomi>-</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>-</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>4637</readnum>		<!-- 조회수-->
+	<gibodata>(;PL[B]MN[1]VW[bb:tt];B[pd];W[dp];B[qp];W[dc];B[de];W[dh];B[cj];W[fd];B[cn];W[fq];B[cc];W[cb];B[cd];W[ef];B[cg];W[ch];B[dg];W[eg];B[eh];W[dj];B[fh];W[bg];B[bf];W[ck];B[ec];W[ed];B[db];W[dd];B[bb];W[eb];B[ca];W[cf];B[df];W[ee];B[ce];W[bj];B[nq];W[nc];B[pf];W[kd];B[qj];W[kp];B[jn];W[ip];B[cp];W[cq];B[bq];W[co];B[bp];W[do];B[dq];W[cr];B[dr];W[br];B[ar];W[bo];B[cs];W[ki];B[mn];W[jl];B[jf];W[id];B[ii];W[ml];B[hk];W[ol];B[hm];W[in];B[im];W[jm];B[kn];W[lm];B[ln];W[oi];B[lk];W[ll];B[io];W[hn];B[ho];W[gn];B[hp];W[gm];B[iq];W[ih];B[hh];W[ig];B[ji];W[kh];B[kj];W[mi];B[ik];W[gj];B[fl];W[gl];B[gk];W[fj];B[em];W[fo];B[fk];W[dl];B[cm];W[cl])</gibodata>
+</gibo>

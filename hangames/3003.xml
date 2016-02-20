@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>3003</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-06-25</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				SK가스배 신예프로10걸전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>134</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>박승현</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>5단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>189</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>박지훈小</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>2단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>134</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>189</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>3시간</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>흑 9집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>16</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제7기 SK가스배 B조 8국]RD[2003-06-25]PC[한국기원]TM[3시간]LT[60]LC[5]KO[]RE[흑 9.5집 승]PB[박승현]BR[3단]PW[박지훈]WR[초단]GK[1]TC[
+★박승현 조3위가 어디냐?
+
+1승 2패로 원성진과 SK가스배 B조 공동 3위. 원성진과 박승현의 대결에서 조3위와 4위가 갈라지며, 10걸전 5,6전과 7,8위전 참가자격이 갈린다.
+
+박지훈은 4패로 조 최하위, 10걸전 9,10위전에 출전한다.
+
+○... 인터넷바둑은 사이버오로
+●... WWW.CYBERORO.COM];B[qd];W[dp];B[cd];W[pp];B[oc];W[ed];B[hd];W[dg];B[cn];W[cf];B[ck];W[eb];B[fq];W[dn];B[dm];W[co];B[en];W[do];B[bn];W[em];B[dl];W[fn];B[iq];W[kq];B[qn];W[np];B[qq];W[qp];B[rp];W[ro];B[rq];W[qo];B[or];W[nr];B[oq];W[nq];B[pq];W[fp];B[op];W[oo];B[no];W[on];B[nn];W[om];B[nm];W[ol];B[jo];W[ko];B[kn];W[ln];B[nl];W[jp];B[lo];W[kp];B[ok];W[rn];B[jn];W[ip];B[qk];W[rl];B[lm];W[eq];B[kd];W[qe];B[pd];W[rd];B[rc];W[rj];B[de];W[ee];B[df];W[ef];B[cg];W[ce];B[dd];W[bd];B[bc];W[be];B[db];W[cb];B[bb];W[dc];B[cc];W[da];B[fc];W[ec];B[bg];W[ba];B[dh];W[eg];B[rk];W[sk];B[qm];W[qj];B[pk];W[ql];B[pl];W[rm];B[pm];W[pg];B[rf];W[re];B[qf];W[pf];B[pe];W[rg];B[sd];W[qg];B[se];W[po];B[ns];W[ms];B[os];W[lr];B[pi];W[ng];B[oh];W[mf];B[rh];W[qh];B[sg];W[qi];B[mh];W[kf];B[kh];W[ke];B[ld];W[ie];B[id];W[he];B[bo];W[ji];B[ki];W[jj];B[cq];W[dr];B[jh];W[kk];B[lk];W[di];B[ch];W[eh];B[bf];W[ab];B[el];W[dj];B[cj];W[fm];B[hn];W[io];B[in];W[ih];B[ig];W[hh];B[gb];W[gd];B[jd];W[jg];B[kj];W[gc];B[hb];W[bq];B[bp];W[br];B[cp];W[cr];B[jf];W[je];B[kg];W[hg];B[fj];W[fi];B[fb];W[so];B[sp];W[ci];B[bi];W[af];B[ag];W[fd];B[ae];W[ac];B[go];W[gp];B[jk];W[ik];B[jl];W[hj];B[ej];W[ei];B[il];W[hc];B[ic];W[mo];B[mn];W[mp];B[hk];W[ne];B[nd];W[ij];B[fo];W[eo];B[ho];W[hp];B[gj];W[gi];B[gl];W[fa];B[nh];W[pj];B[oj];W[ph];B[oi];W[si];B[sh];W[oe];B[og];W[of];B[me];W[le];B[md];W[if];B[jg];W[ap];B[ao];W[aq];B[mg];W[nf];B[lg];W[lf];B[fl];W[ga];B[ib];W[gm];B[hm];W[ha];B[ia];W[ea];B[dk];W[lp];B[ln];W[ad];B[bj];W[ri];B[sf];W[af];B[od];W[ae];B[gn];W[en];B[dq];W[ep]C[])</gibodata>
+</gibo>

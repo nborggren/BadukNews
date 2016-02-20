@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2887</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-03-12</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				KTF배
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>708</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>진시연</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>2단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>36</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>유창혁</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>36</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>708</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>백 3집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>61</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]SU[생중계]RD[2002-03-12]PC[한국기원]BT[0:0]PB[진시연]BR[19]BC[]BD[0]WT[0:0]PW[유창혁]WR[19]WC[]WD[0]RE[백승:3집반];B[pd];W[dc];B[dp];W[qq];B[ce];W[ed];B[ci];W[nc];B[qf];W[pb];B[fq];W[qc];B[qi];W[cg];B[ee];W[fe];B[ef];W[dh];B[cc];W[cb];B[bc];W[ff];B[eg];W[di];B[fd];W[gd];B[fc];W[gc];B[fb];W[dd];B[gb];W[de];B[df];W[cd];B[be];W[bd];B[ad];W[bb];B[ac];W[ab];B[ae];W[eb];B[cf];W[ic];B[dj];W[ej];B[dk];W[gh];B[fh];W[fi];B[gg];W[hg];B[eh];W[ei];B[bg];W[hf];B[hb];W[ib];B[gi];W[hh];B[gj];W[ek];B[dl];W[el];B[dm];W[gl];B[ij];W[il];B[kj];W[kl];B[mj];W[ml];B[ok];W[om];B[kp];W[pj];B[oj];W[pi];B[nm];W[lo];B[qh];W[li];B[lj];W[nl];B[ql];W[lp];B[pn];W[ni];B[mk];W[ph];B[pg];W[ng];B[ol];W[ne];B[nn];W[ko];B[oq];W[qo];B[pp];W[qp];B[jp];W[jo];B[ip];W[io];B[hp];W[cp];B[co];W[dq];B[cq];W[fn];B[fo];W[go];B[ho];W[bp];B[bq];W[fp];B[ep];W[eo];B[do];W[hn];B[jh];W[re];B[qj];W[kg];B[kh];W[lh];B[jg];W[jf];B[ea];W[fa];B[ba];W[db];B[ca];W[da];B[ga];W[hc];B[ea];W[bh];B[ch];W[bi];B[cj];W[dg];B[ag];W[fa];B[em];W[fm];B[ea];W[bj];B[bk];W[fa];B[ge];W[gf];B[ea];W[pk];B[rm];W[qn];B[qm];W[fa];B[fk];W[gk];B[ea];W[bf];B[aj];W[fa];B[pr];W[qr];B[so];W[sp];B[sn];W[pq];B[or];W[op];B[po];W[np];B[mr];W[on];B[pm];W[mq];B[lr];W[oo];B[pl];W[ro];B[sr];W[rq];B[sq];W[ea];B[rp];W[lq];B[kr];W[sp];B[ll];W[lm];B[rp];W[kq];B[jq];W[sp];B[og];W[gp];B[gq];W[rr];B[rp];W[fg];B[af];W[sp];B[nh];W[ss];B[lg];W[kf];B[mg];W[nf];B[mh];W[jk];B[me];W[mf];B[lf];W[le];B[ke];W[md];B[if];W[je];B[ie];W[jd];B[ig];W[he];B[jj];W[sh];B[pc];W[qe];B[pe];W[rb];B[lk];W[mm];B[si];W[sf];B[rh];W[ps];B[nr];W[en];B[oc];W[ob];B[rf];W[sg];B[rg];W[se];B[ii];W[nk];B[nj];W[dn];B[cn];W[os];B[ns];W[rn];B[sm];W[qs];B[qd];W[rd];B[hk];W[hl];B[kk];W[jl];B[fj];W[fl];B[oe];W[nd];B[of];W[id]C[★제1기 KTF배 B조8국\r\n○유창혁 9단 ●진시연 2단\r\n266수끝 백3집반승\r\n\r\n★한국기원 본선대국실\r\n2002년 3월 12일\r\n])</gibodata>
+</gibo>

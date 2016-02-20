@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>18367</gseq><!-- 기보 시퀀스 -->
+	<playdate>2008-12-08</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[제56기 일본 왕좌전] 도전4국
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>411</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>야마시타 게이고 </playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/japan/pro_photo114.jpg
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>400</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>장쉬</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/japan/pro_photo154.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>400</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>411</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>4시간 60초 5회</limittime>		<!-- 제한시간-->
+	<place>일본 시즈오카현 이즈</place>			<!-- 대국장소-->
+	<result>백 2집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>646</readnum>		<!-- 조회수-->
+	<gibodata>(;TE[제56기 일본왕좌전 도전5번기 4국]RD[20081208 [18:04]]PC[일본 시즈오카현 이즈]TM[각자 4시간]LT[60]LC[5]KO[6.5]RE[271수,백2.5집승!]PB[야마시타 게이고]BR[9단]PW[장쉬   ]WR[9단]GK[1]TC[장쉬 9단이 네 번째 왕좌에 올랐다. 12월 8일 일본 시즈오카현 이즈에서 벌어진 제56기 일본왕좌전 도전5번기 4국에서 도전자인 장쉬 9단(80년생)이 타이틀 보유자인 야마시타 게이고(78년생) 9단을 271수만에 백2집반으로 누르고 종합전적 3:1로 왕좌 타이틀을 차지했다.
+
+사이버오로
+www.cyberoro.com];B[pd];W[dd];B[qp];W[dq];B[oq];W[cl];B[cf];W[ce];B[df];W[fd];B[di];W[bh];B[ck];W[dk];B[cj];W[bf];B[dl];W[cm];B[dp];W[cp];B[co];W[cq];B[do];W[dm];B[fp];W[eq];B[el];W[em];B[ek];W[gm];B[go];W[gq];B[io];W[fl];B[fk];W[gk];B[hl];W[gj];B[gl];W[fm];B[hm];W[ej];B[dj];W[fj];B[dk];W[hn];B[in];W[gp];B[gn];W[al];B[fh];W[dh];B[ei];W[hh];B[gf];W[hf];B[ge];W[ie];B[gd];W[ic];B[ec];W[ed];B[fc];W[dc];B[bp];W[gg];B[fg];W[ai];B[bi];W[ch];B[be];W[ef];B[ff];W[aj];B[hc];W[ib];B[bg];W[eg];B[ee];W[de];B[fe];W[eb];B[af];W[ah];B[cb];W[gb];B[cc];W[gc];B[hi];W[ii];B[gi];W[ik];B[bk];W[ak];B[eh];W[dg];B[ij];W[jj];B[hj];W[hk];B[ji];W[im];B[ho];W[il];B[kj];W[jk];B[ih];W[hn];B[bq];W[br];B[lj];W[kh];B[ll];W[km];B[ko];W[lm];B[nl];W[hr];B[ar];W[cs];B[fo];W[nm];B[mp];W[ol];B[mm];W[mn];B[ml];W[lo];B[lp];W[on];B[ok];W[pl];B[pk];W[qo];B[kl];W[jm];B[po];W[pn];B[ro];W[qk];B[qj];W[rk];B[pi];W[qn];B[no];W[nn];B[kn];W[ln];B[ig];W[nc];B[pc];W[kq];B[kp];W[ne];B[ke];W[db];B[bc];W[pf];B[md];W[nd];B[qf];W[qg];B[qe];W[ob];B[kc];W[ph];B[pb];W[nh];B[lg];W[lh];B[kg];W[mg];B[mi];W[mh];B[ki];W[lr];B[iq];W[ir];B[jq];W[jr];B[rj];W[le];B[bl];W[bm];B[je];W[lf];B[if];W[kf];B[hd];W[id];B[jf];W[rf];B[hb];W[ha];B[ld];W[cg];B[bf];W[lb];B[kb];W[da];B[re];W[or];B[pr];W[nr];B[pp];W[nq];B[np];W[rp];B[rq];W[oi];B[lq];W[kr];B[rg];W[rh];B[sf];W[nj];B[nk];W[oj];B[pj];W[pa];B[qa];W[oa];B[rb];W[la];B[fq];W[fr];B[ca];W[bn];B[bo];W[rn];B[sp];W[he];B[hg];W[sn];B[sk];W[sl];B[sj];W[rl];B[mj];W[sh];B[ka];W[mb];B[ps];W[jg];B[sg];W[ni];B[hm];W[hq];B[os];W[mr];B[jh];W[so];B[rp];W[oo];B[op];W[jn];B[jo];W[cd];B[bd];W[kg];B[hp];W[kk];B[lk];W[fi];B[gh];W[me];B[oe];W[of];B[ns];W[ms];B[ao]C[])</gibodata>
+</gibo>

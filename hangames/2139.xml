@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2139</gseq><!-- 기보 시퀀스 -->
+	<playdate>2001-12-18</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				맥심커피배 입신최강전 
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>2</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>윤기현</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>36</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>유창혁</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>36</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>2</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>한국기원 바둑TV</place>			<!-- 대국장소-->
+	<result>백 반집승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>270</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]SU[생중계]RD[2001-01-28]PC[한국기원 바둑TV]BT[0:0]PB[윤기현]BR[11]BC[]BD[0]WT[0:0]PW[유창혁]WR[11]WC[]WD[0]RE[백승:백반집승];B[qd];W[dc];B[dq];W[pp];B[ce];W[ed];B[oc];W[cn];B[cp];W[ck];B[ch];W[qi];B[qn];W[qo];B[pn];W[nq];B[qk];W[qf];B[oe];W[oj];B[no];W[pk];B[qj];W[pi];B[lp];W[ro];B[pj];W[ok];B[ql];W[og];B[ic];W[oo];B[on];W[nn];B[nm];W[mn];B[mm];W[ln];B[lm];W[kn];B[ip];W[km];B[lk];W[kl];B[mj];W[kj];B[rn];W[kk];B[po];W[op];B[qp];W[rp];B[qq];W[rq];B[pq];W[qr];B[pr];W[qs];B[mq];W[or];B[np];W[oq];B[nr];W[ps];B[nh];W[ng];B[mh];W[oh];B[ni];W[oi];B[ll];W[re];B[en];W[cd];B[ek];W[di];B[dh];W[ci];B[eh];W[ei];B[fi];W[fh];B[fg];W[gh];B[gg];W[fj];B[be];W[bd];B[hn];W[hg];B[fe];W[hh];B[fd];W[fb];B[rd];W[ri];B[kh];W[do];B[eo];W[pl];B[om];W[dp];B[ep];W[cq];B[co];W[dn];B[bn];W[bm];B[bq];W[cr];B[br];W[bo];B[bp];W[an];B[mr];W[jp];B[jq];W[dr];B[eq];W[er];B[fr];W[fq];B[gr];W[em];B[fm];W[fl];B[gm];W[fn];B[fp];W[gl];B[hl];W[hk];B[gk];W[el];B[ik];W[hj];B[im];W[ij];B[ld];W[hb];B[ib];W[iq];B[hq];W[df];B[de];W[bh];B[dd];W[ec];B[bg];W[eg];B[bi];W[ee];B[ah];W[cf];B[bf];W[bj];B[ad];W[bc];B[cg];W[kq];B[ir];W[kp];B[kr];W[sd];B[sc];W[se];B[rc];W[ne];B[nd];W[lg];B[lh];W[rj];B[ji];W[jj];B[jf];W[he];B[hd];W[ie];B[mg];W[mf];B[me];W[jd];B[kc];W[ap];B[cs];W[lf];B[nf];W[ke];B[kf];W[id];B[hc];W[le];B[sl];W[li];B[rk];W[pm];B[nl];W[gc];B[gd];W[ar];B[bs];W[aq];B[ha];W[gb];B[ac];W[ab];B[ae];W[bb];B[kd];W[jc];B[jb];W[of];B[ne];W[je];B[qe];W[rf];B[ff];W[io];B[ho];W[ef];B[jh];W[ns];B[jo];W[ko];B[lr];W[aj];B[ai];W[jn];B[in];W[qm];B[rm];W[sj];B[sk];W[pe];B[pd];W[pf];B[ii];W[hi];B[so];W[sp];B[sn];W[ga];B[ia];W[fc];B[nk];W[ms];B[ls];W[os];B[jo];W[lj];B[nj];W[io];B[es];W[jo];B[kg];W[ig];B[if];W[hf];B[ds];W[ao];B[mp];W[jk];B[il];W[ge];B[kb]C[★제3회 맥심배 \r\n 백 유창혁 9단  흑 윤기현 9단\r\n2001년 12월 28일\r\n265수끝 백반집승\r\n])</gibodata>
+</gibo>

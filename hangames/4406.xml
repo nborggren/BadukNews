@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4406</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-12-17</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[한게임 아마최강전 시니어] 결승전
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq></playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>지리산2003</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq></playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>모티베이션</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq></winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq></defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>20분, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>한게임바둑 대국실</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>201</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion]C[];B[pd];W[dd];B[pq];W[dq];B[do];W[co];B[dp];W[cp];B[eq];W[cn];B[jp];W[dr];B[pk];W[nc];B[pf];W[kc];B[po];W[df];B[je];W[ke];B[kd];W[ld];B[jd];W[jc];B[ic];W[le];B[ib];W[jf];B[he];W[hf];B[if];W[ig];B[ie];W[kg];B[gf];W[hg];B[fd];W[qh];B[oc];W[nb];B[qj];W[oh];B[ob];W[rf];B[rd];W[nk];B[pi];W[ph];B[nj];W[lk];B[jh];W[jg];B[mj];W[mh];B[mk];W[lm];B[ml];W[hp];B[ho];W[go];B[hn];W[ip];B[jo];W[fp];B[jm];W[qq];B[qp];W[pr];B[qr];W[oq];B[rq];W[ll];B[lh];W[mg];B[li];W[jk];B[mo];W[mn];B[gn];W[lo];B[lp];W[jr];B[ko];W[ji];B[kj];W[lj];B[mi];W[jj];B[ih];W[hh];B[fo];W[gp];B[hi];W[gi];B[ki];W[jl];B[ch];W[lr];B[ck];W[hj];B[bf];W[fc];B[ec];W[ed];B[fb];W[gc];B[gd];W[eb];B[dc];W[db];B[cc];W[gb];B[cb];W[fa];B[ha];W[ga];B[ef];W[be]C[];B[bd]C[];W[cd]C[];B[bc]C[];W[ae]C[];B[cf]C[];W[ce]C[];B[ee]C[]PW[모티베이션]WR[9단]WT[]PB[지리산2003]BR[9단]BT[]HA[호선]KM[6.5]RE[흑불계승]DT[20061217]OT[]PC[한게임 대국실]RO[]EV[한게임 아마최강전]US[]AN[]CP[]SO[]GC[]TM[1200]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

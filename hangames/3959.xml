@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>3959</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-09-24</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2006 한국바둑리그] 10R 4G 3국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>49</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>최철한</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>158</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>김지석</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>4단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>49</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>158</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>광주 무등파크호텔</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>821</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion]C[];B[pd];W[dd];B[qp];W[dq];B[co];W[ck];B[cf];W[ce];B[df];W[fd];B[ep];W[eq];B[fp];W[gq];B[ci];W[cq];B[cm];W[ek];B[ei];W[gk];B[ho];W[hq];B[bk];W[nc];B[pf];W[pb];B[qj];W[qc];B[oq];W[fn];B[cl];W[bf];B[bg];W[qh];B[pi];W[qf];B[qe];W[pg];B[of];W[og];B[ng];W[nf];B[rf];W[qg];B[nh];W[od];B[re];W[pe];B[oe];W[ne];B[pe];W[rd];B[md];W[nd];B[jp];W[ik];B[jl];W[jk];B[kk];W[kj];B[il];W[hl];B[lk];W[rg];B[hj];W[hk];B[lj];W[ki];B[jr];W[in];B[jn];W[rj];B[ri];W[qi];B[rk];W[pj];B[qk];W[oi];B[pk];W[ph];B[nj];W[ni];B[lh];W[mh];B[mg];W[mi];B[li];W[lg];B[kh];W[io];B[jo];W[lf];B[hc];W[fb];B[jf];W[jd];B[he];W[ok];B[nk];W[oj];B[ol];W[be];B[ip];W[ic];B[hn];W[fi];B[ii];W[eh];B[di];W[hh];B[ff];W[hi];B[gb];W[ib];B[ke];W[kd];B[le];W[mc];B[bp];W[bq];B[fj];W[fh];B[gj];W[ij];B[ej];W[jh];B[kg];W[mf];B[fk];W[fl];B[gm];W[gl];B[ig];W[ih];B[ji]PW[김지석]WR[3단]WT[]PB[최철한]BR[9단]BT[]HA[호선]KM[6.5]RE[흑 불계승]DT[20060924]OT[]PC[광주 무등파크호텔]RO[]EV[]US[]AN[]CP[]SO[]GC[]TM[600]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

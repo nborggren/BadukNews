@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2511</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-11-21</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				일본 왕위전(王座戰)
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>393</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>왕밍완 </playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>386</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>조치훈</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>393</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>386</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>각 5시간</limittime>		<!-- 제한시간-->
+	<place>일본 야마가타현 니시타와군</place>			<!-- 대국장소-->
+	<result>흑 반집승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>63</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제50회 일본 왕좌전 도전5번기 제3국]RD[2002-11-21]PC[일본 야마가타현 니시타와군]TM[각 5시간]LT[60]LC[10]KO[]RE[276수 흑반집승]PB[왕밍완]BR[9단]PW[조치훈]WR[9단]GK[1]TC[
+★ 도전3국 : 왕밍완 9단 2승으로 앞서.
+
+- 도전자 왕밍완 9단이 일본의 현 왕좌 조치훈 9단을 반집으로 꺾고 일본 왕좌전 도전5번기를 2:1로 리드했다.
+
+
+○... 인터넷바둑은 사이버오로
+●... WWW.CYBERORO.COM];B[qd];W[dd];B[fc];W[id];B[nc];W[ec];B[dp];W[pp];B[fd];W[df];B[gg];W[eb];B[ge];W[ci];B[pj];W[if];B[ih];W[lc];B[je];W[jd];B[ke];W[ie];B[eh];W[ff];B[gf];W[dh];B[me];W[gb];B[qn];W[nq];B[jp];W[rp];B[ej];W[rd];B[re];W[qe];B[pe];W[qf];B[rf];W[pd];B[qc];W[oe];B[qg];W[pf];B[pc];W[oh];B[qh];W[oj];B[nf];W[pi];B[qj];W[pg];B[mi];W[qi];B[ri];W[rj];B[rh];W[pk];B[qk];W[ql];B[rk];W[rl];B[sj];W[ol];B[po];W[qo];B[ro];W[qp];B[pm];W[pl];B[nn];W[mk];B[mm];W[om];B[np];W[mp];B[km];W[on];B[oo];W[pn];B[mq];W[lq];B[mr];W[mo];B[no];W[lr];B[nr];W[oq];B[or];W[pr];B[lp];W[lo];B[kp];W[os];B[cj];W[bj];B[ck];W[dq];B[eq];W[cq];B[cp];W[er];B[fr];W[fq];B[ep];W[gr];B[fp];W[fs];B[gq];W[fr];B[bi];W[bh];B[di];W[ch];B[ko];W[ms];B[ln];W[bk];B[bl];W[hq];B[gp];W[cl];B[bm];W[ki];B[nk];W[nj];B[mj];W[kg];B[nh];W[ni];B[lh];W[hh];B[hi];W[hg];B[gh];W[ii];B[ji];W[ij];B[nl];W[ok];B[kh];W[gi];B[hj];W[fi];B[ei];W[dk];B[ek];W[dj];B[el];W[cm];B[hc];W[gc];B[hd];W[ib];B[hb];W[ha];B[fb];W[fa];B[sl];W[sm];B[rm];W[sk];B[ic];W[jc];B[sl];W[sn];B[sk];W[qm];B[jb];W[ia];B[mb];W[lb];B[ma];W[mc];B[nb];W[nd];B[bq];W[br];B[og];W[ph];B[mn];W[bo];B[bp];W[bn];B[ir];W[hr];B[ar];W[bs];B[op];W[pq];B[ed];W[cc];B[dc];W[db];B[ja];W[ga];B[ea];W[da];B[gd];W[ea];B[ig];W[jf];B[hf];W[hp];B[ho];W[ns];B[mp];W[em];B[fm];W[en];B[la];W[md];B[kr];W[io];B[go];W[ip];B[hs];W[dr];B[in];W[mg];B[lg];W[ng];B[mh];W[of];B[mf];W[fn];B[gn];W[kf];B[eg];W[gm];B[fl];W[le];B[lf];W[kd];B[dg];W[cg];B[ef];W[ee];B[fe];W[de];B[dn];W[do];B[co];W[cn];B[eo];W[dm];B[kq];W[ls];B[oc];W[jg];B[jh];W[kb];B[ka];W[iq];B[ks];W[ps];B[jq];W[jo];B[jn];W[nm];B[ml];W[od];B[og];W[ng];B[ao];W[an];B[ap];W[do];B[mg];W[dn];B[og];W[is];B[js];W[ng];B[hn];W[og]C[])</gibodata>
+</gibo>

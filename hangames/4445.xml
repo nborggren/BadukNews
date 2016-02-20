@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4445</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-12-26</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				한게임 최고수전 본선 32강
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq></playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>국선주</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq></playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>황금다이아</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq></winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq></defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>20분 30초 3회</limittime>		<!-- 제한시간-->
+	<place>한게임 바둑 대국실</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>1161</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion];B[qd];W[pp];B[cd];W[cp];B[ep];W[hp];B[co];W[bo];B[do];W[bn];B[cq];W[bq];B[dp];W[bp];B[el];W[cr];B[cl];W[ed];B[ee];W[cc];B[dd];W[dc];B[fd];W[ec];B[fc];W[bd];B[be];W[fe];B[ef];W[bc];B[cf];W[ff];B[hd];W[eg];B[df];W[hg];B[di];W[kd];B[eb];W[db];B[fb];W[ce];B[de];W[ba];B[je];W[jg];B[ke];W[md];B[kc];W[od];B[ld];W[pf];B[qf];W[qg];B[pg]C[];W[of];B[qh];W[rg];B[rf];W[rh];B[ph];W[qi];B[pi];W[qj];B[pj];W[qk];B[pc];W[lf];B[le];W[mf];B[pk];W[pl];B[ol];W[pm];B[li];W[ni];B[nh];W[mh];B[mi];W[nj];B[mg];W[oh];B[lh];W[og];B[kg];W[mk];B[kk];W[ji];B[lk];W[ik];B[ml];W[ok];B[im];W[dh];B[ch];W[ei];B[pq];W[oq];B[qp];W[po];B[qr];W[or];B[rn];W[kp];B[gj];W[hj];B[fh];W[fg];B[hi];W[ci];B[dj];W[gi];B[fi];W[gh];B[fj];W[if];B[sg];W[oi];B[iq];W[ip];B[gr];W[jq];B[ir];W[cg];B[bh];W[bg];B[dg];W[eh];B[ag];W[ej];B[ek];W[bi];B[bf];W[dk];B[cj];W[ck];B[bj];W[bk];B[ai];W[dl];B[dm];W[bl];B[cm];W[bm];B[er];W[fk];B[fl];W[gk];B[kr];W[kf];B[jl];W[gm];B[jo];W[jp];B[gn];W[hn];B[hm];W[gl];B[ho];W[go];B[in];W[fn];B[ko];W[jr];B[js];W[lp];B[mn];W[fq];B[gp];W[fo];B[fp];W[hq]PW[황금다이아]WR[9단]WT[]PB[국선주]BR[9단]BT[]HA[호선]KM[6.5]RE[백불계승]DT[20061226]OT[]PC[한게임 대국실]RO[]EV[한게임최고수전]US[]AN[]CP[]SO[]GC[]TM[1200]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2436</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-06-07</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				KT배 왕위전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>101</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>이현욱</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>6단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>47</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>조한승</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>47</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>101</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>각 4시간</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>52</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제36기 왕위전 ]RD[2002-05-07]PC[한국기원]TM[각 4시간]LT[60]LC[5]KO[]RE[148수 백불계승]PB[이현욱]BR[4단]PW[조한승]WR[5단]GK[1]TC[
+조한승 5단, 왕위전 성적 4승2패!!
+조 5단의 남은 상대자는 윤현석 7단(2승 4패).
+
+한편, 이세돌 3단과 서봉수 9단과의 대국을 남겨두고 있는 조훈현 9단은 4승 1패로 조 9단의 잔여 대국승패에 따라 도전권의 향방이 결정될 전망.
+
+<가장빠른 바둑정보 - 사이버오로>
+www.cyberoro.com];B[qd];W[dp];B[pq];W[dd];B[fc];W[cf];B[kc];W[qk];B[qo];W[qh];B[qf];W[oh];B[pi];W[ph];B[oc];W[fq];B[ck];W[ci];B[bp];W[co];B[bo];W[cm];B[dq];W[eq];B[dr];W[bn];B[kp];W[ge];B[dc];W[cc];B[ed];W[db];B[de];W[ec];B[eb];W[dc];B[fe];W[gd];B[fd];W[ce];B[gf];W[id];B[hf];W[je];B[dg];W[jg];B[ei];W[df];B[eg];W[ch];B[kf];W[jf];B[ii];W[ld];B[ki];W[mc];B[qi];W[qn];B[rh];W[ro];B[qp];W[on];B[oi];W[rj];B[ri];W[rm];B[rp];W[sp];B[sq];W[so];B[rr];W[iq];B[hc];W[ic];B[ib];W[jb];B[gb];W[kb];B[dj];W[ek];B[ip];W[jp];B[jo];W[jq];B[hp];W[ko];B[hq];W[lp];B[kn];W[lo];B[jn];W[hn];B[mr];W[lr];B[gn];W[eo];B[dn];W[en];B[gm];W[dk];B[cp];W[dm];B[mm];W[mq];B[gk];W[ej];B[di];W[cj];B[mb];W[nb];B[nc];W[lb];B[md];W[lc];B[me];W[ob];B[pb];W[ih];B[jh];W[kh];B[ji];W[pc];B[oa];W[ma];B[qc];W[mf];B[nf];W[le];B[ne];W[mg];B[ng];W[lh];B[nh];W[li];B[lj];W[mj];B[lk];W[br];B[bq];W[gj];B[hj];W[gi];B[hh];W[ef];B[ff];W[gh];B[gg];W[fk]C[])</gibodata>
+</gibo>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>20142</gseq><!-- 기보 시퀀스 -->
+	<playdate>2009-10-14</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[제14회 삼성화재배] 8강전
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>50</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>박영훈</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo083.jpg
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>272</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>콩지에</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/china/pro_photo119.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>272</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>50</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>2시간, 1분 5회</limittime>		<!-- 제한시간-->
+	<place>대전 삼성화재 유성연수원</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>1918</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]N[Root::게임정보];B[qd]C[];W[pp]C[];B[dc]C[];W[cp]C[];B[ep]C[];W[ce]C[];B[dn]C[];W[od]C[];B[ld]C[];W[ed]C[];B[ec]C[];W[fd]C[];B[gc]C[];W[pg]C[];B[oe]C[];W[ne]C[];B[of]C[];W[qc]C[];B[qf]C[];W[rd]C[];B[nd]C[];W[oc]C[];B[re]C[];W[pd]C[];B[qe]C[];W[md]C[];B[bo]C[];W[qk]C[];B[nq]C[];W[pn]C[];B[er]C[];W[oq]C[];B[cg]C[];W[cc]C[];B[pk]C[];W[pj]C[];B[ql]C[];W[pl]C[];B[ok]C[];W[qj]C[];B[pm]C[];W[ol]C[];B[om]C[];W[nl]C[];B[qn]C[];W[np]C[];B[nm]C[];W[nk]C[];B[rc]C[];W[rb]C[];B[sd]C[];W[rl]C[];B[qm]C[];W[ro]C[];B[lm]C[];W[fc]C[];B[fb]C[];W[gb]C[];B[hb]C[];W[eb]C[];B[ga]C[];W[db]C[];B[lp]C[];W[dj]C[];B[nr]C[];W[or]C[];B[qo]C[];W[qp]C[];B[dk]C[];W[ck]C[];B[cj]C[];W[cl]C[];B[dl]C[];W[ci]C[];B[bj]C[];W[bi]C[];B[ej]C[];W[di]C[];B[cm]C[];W[bk]C[];B[mp]C[];W[no]C[];B[mn]C[];W[bm]C[];B[bn]C[];W[fq]C[];B[eq]C[];W[im]C[];B[in]C[];W[hm]C[];B[hn]C[];W[gm]C[];B[gn]C[];W[ns]C[];B[mr]C[];W[jm]C[];B[jn]C[];W[km]C[];B[ml]C[];W[oj]C[];B[kn]C[];W[ek]C[];B[el]C[];W[fk]C[];B[fl]C[];W[gk]C[];B[he]C[];W[gf]C[];B[lc]C[];W[ms]C[];B[ls]C[];W[os]C[];B[lr]C[];W[ig]C[];B[qb]C[];W[mc]C[];B[me]C[];W[nf]C[];B[og]C[];W[mf]C[];B[le]C[];W[lf]C[];B[ge]C[];W[ff]C[];B[jj]C[];W[ke]C[];B[jd]C[];W[fm]C[];B[en]C[];W[lk]C[];B[li]C[];W[lj]C[];B[mh]C[];W[kg]C[];B[jh]C[];W[ih]C[];B[jg]C[];W[jf]C[];B[kh]C[];W[if]C[];B[mb]C[];W[nc]C[];B[oh]C[];W[ii]C[];B[gl]C[];W[hk]C[];B[ri]C[];W[qi]C[];B[rj]C[];W[rk]C[];B[qh]C[];W[pb]C[];B[rn]C[];W[ni]C[];B[nh]C[];W[ji]C[];B[ki]C[];W[kj]C[];B[rp]C[];W[rq]C[];B[so]C[];W[nb]GN[]PW[콩지에]WR[9단]WT[]PB[박영훈]BR[9단]BT[]HA[호선]KM[6.5]RE[백 불계승]DT[20091014]OT[]PC[대전 삼성화재 유성연수원]RO[]EV[]US[]AN[]CP[]SO[]GC[]TM[7200]TS[00:00:00]TF[00:00:00]ZT[60]ZC[5])</gibodata>
+</gibo>

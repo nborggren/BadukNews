@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4633</gseq><!-- 기보 시퀀스 -->
+	<playdate>2007-02-16</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[현대자동차배 기성전] 도전자 결정전
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>49</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>최철한</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>39</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>김승준</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>49</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>39</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi> 호선</gomi>			<!-- 치수-->
+	<limittime>1시간, 1분 1회</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>1830</readnum>		<!-- 조회수-->
+	<gibodata>(;B[qd]C[];W[pp]C[];B[cd]C[];W[dp]C[];B[oc]C[];W[ed]C[];B[ec]C[];W[fc]C[];B[dc]C[];W[fg]C[];B[cg]C[];W[qm]C[];B[jq]C[];W[hq]C[];B[mq]C[];W[oq]C[];B[jo]C[];W[cn]C[];B[pi]C[];W[oe]C[];B[nd]C[];W[qe]C[];B[pd]C[];W[og]C[];B[qg]C[];W[pe]C[];B[ql]C[];W[rl]C[];B[qk]C[];W[rk]C[];B[rj]C[];W[pm]C[];B[ni]C[];W[mh]C[];B[lj]C[];W[kh]C[];B[qq]C[];W[rn]C[];B[jj]C[];W[kd]C[];B[hd]C[];W[fb]C[];B[ic]C[];W[df]C[];B[ih]C[];W[me]C[];B[cf]C[];W[hf]C[];B[ge]C[];W[dd]C[];B[cc]C[];W[gf]C[];B[fe]C[];W[fd]C[];B[ef]C[];W[eg]C[];B[dg]C[];W[ff]C[];B[ee]C[];W[de]C[];B[hb]C[];W[jb]C[];B[ie]C[];W[if]C[];B[je]C[];W[ke]C[];B[jf]C[];W[he]C[];B[gd]C[];W[jg]C[];B[jc]C[];W[jd]C[];B[kc]C[];W[lc]C[];B[id]C[];W[kb]C[];B[kf]C[];W[md]C[];B[mb]C[];W[lb]C[];B[lf]C[];W[mf]C[];B[ol]C[];W[ib]C[];B[ce]C[])</gibodata>
+</gibo>

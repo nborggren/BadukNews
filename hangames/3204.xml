@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>3204</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-04-04</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[맥심커피배 입신최강전 ] 결승3국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>48</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>이세돌</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>49</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>최철한</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>48</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>49</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6,5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>20분, 40초 1회</limittime>		<!-- 제한시간-->
+	<place>한국기원 바둑TV 스튜디오</place>			<!-- 대국장소-->
+	<result>흑 시간승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>3356</readnum>		<!-- 조회수-->
+	<gibodata>(;TE[제7회맥심커피배입신최강전]RD[2006년4월4일]PC[한국기원바둑스튜디오]TM[각20분]LT[40초]LC[1회]KO[흑6,5집공제]RE[69수끝 흑시간승]PB[이세돌9단]BR[]PW[최철한9단]WR[]GK[1]TC[]B[qd];W[pp];B[dc];W[cp];B[ep];W[eq];B[dp];W[dq];B[co];W[fq];B[bp];W[cq];B[ci];W[od];B[mc];W[ob];B[qg];W[kc];B[ic];W[ld];B[ie];W[ce];B[cd];W[de];B[fd];W[fe];B[ed];W[ei];B[eh];W[dh];B[di];W[fh];B[eg];W[fg];B[dg];W[cg];B[ch];W[ef];B[ej];W[fi];B[fj];W[df];B[dn];W[fn];B[hj];W[fp];B[md];W[me];B[le];W[mf];B[kb];W[gd];B[pc];W[oc];B[of];W[pe];B[qe];W[pf];B[pg];W[og];B[ng];W[oh];B[nf];W[ne];B[nh];W[ke];B[lc];W[kd];B[jb]C[])</gibodata>
+</gibo>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2476</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-02-21</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				일본 기성전(棋聖戰)
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>369</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>류시훈</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>361</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>왕리청</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>369</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>361</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>일본</place>			<!-- 대국장소-->
+	<result>흑 3집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>107</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]SU[생중계]RD[2002-02-21]PC[일본]BT[0:0]PB[류시훈]BR[13]BC[일본]BD[0]WT[0:0]PW[왕리청]WR[11]WC[일본]WD[0]RE[흑3집반승:흑3집반승];B[qd];W[dc];B[dp];W[pp];B[ce];W[dh];B[fe];W[cn];B[fq];W[ee];B[ef];W[ed];B[cg];W[ff];B[eg];W[gf];B[fc];W[fd];B[ge];W[hd];B[he];W[ie];B[hf];W[gd];B[hg];W[gh];B[gg];W[fh];B[fg];W[dk];B[oc];W[kc];B[qn];W[nq];B[rp];W[rd];B[re];W[qe];B[rf];W[qq];B[pl];W[pd];B[qc];W[pc];B[qb];W[pb];B[pe];W[oe];B[qf];W[od];B[lq];W[rq];B[of];W[nf];B[ng];W[og];B[pf];W[mf];B[bi];W[ip];B[lo];W[im];B[en];W[cp];B[cq];W[do];B[eo];W[dq];B[ep];W[bq];B[cr];W[bo];B[br];W[ar];B[dr];W[kp];B[lp];W[ok];B[pk];W[oi];B[cl];W[bm];B[mg];W[lg];B[mh];W[mk];B[lh];W[kl];B[lf];W[md];B[kg];W[ol];B[om];W[pm];B[pn];W[nm];B[on];W[pj];B[qj];W[qi];B[rk];W[rj];B[qk];W[mr];B[lm];W[kn];B[mm];W[kj];B[nj];W[ni];B[mj];W[mi];B[oj];W[li];B[lk];W[jh];B[ld];W[lc];B[ml];W[hh];B[bc];W[fl];B[cb];W[db];B[gm];W[fm];B[gn];W[gl];B[hm];W[il];B[le];W[nc];B[dn];W[ck];B[co];W[bl];B[jd];W[jc];B[id];W[ic];B[bp];W[no];B[ko];W[jn];B[ir];W[ro];B[rn];W[jg];B[jf];W[ap];B[aq];W[cc];B[bb];W[bq];B[pi];W[ph];B[kh];W[ji];B[ig];W[ci];B[ch];W[cj];B[aq];W[kd];B[je];W[bq];B[eh];W[ei];B[aq];W[nn];B[nl];W[bq];B[da];W[ea];B[ca];W[ec];B[aq];W[cd];B[bd];W[bq];B[ih];W[ii];B[aq];W[lr];B[np];W[op];B[iq];W[bq];B[jp];W[hp];B[aq];W[hq];B[ao];W[kr];B[kq];W[hr];B[mo];W[sp];B[pg];W[pj];B[lj];W[ki];B[pi];W[oh];B[qh];W[pj];B[ri];W[pi];B[bj];W[rh];B[sj];W[qg];B[me];W[ne];B[jr];W[hn];B[mq];W[de];B[df];W[qa];B[ra];W[pa];B[nr];W[oq];B[ks];W[or];B[go];W[bn];B[ho];W[io];B[in];W[rb];B[rc];W[hn];B[fb];W[eb];B[in];W[ke];B[kf];W[hn];B[hl];W[hk];B[in];W[jo];B[km];W[jm];B[kk];W[jk];B[bk];W[dm];B[sb];W[fr];B[er];W[oo];B[em];W[el];B[rg];W[qh];B[sh];W[ak];B[sn];W[fs];B[es];W[hs];B[al];W[am];B[so];W[qp];B[qo];W[rp];B[gr];W[gs];B[gq];W[gp];B[fp];W[fn];B[fo];W[aj];B[ai];W[al];B[bh];W[ns];B[ls];W[jl];B[js];W[ll];B[nk];W[ms];B[mp];W[dl];B[dg];W[di];B[hn];W[cm]C[제26기 일본 기성전 도전7번기 제5국
+
+백 : 왕리청 9단
+흑 : 류시훈 7단
+
+결과 : 294수끝, 흑3집반승.
+];B[ap];W[an];B[po];W[is];B[ln];W[jq]C[제26기 기성전 도전7번기 제5국\r\n\r\n백 : 왕리청 9단\r\n흑 : 류시훈 7단\r\n\r\n결과 : 300수끝, 백불계승.\r\n])</gibodata>
+</gibo>

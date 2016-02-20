@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>324</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-08-04</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[비씨카드배 신인왕전]  
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>104</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>안영길</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>6단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>107</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>이영구 </playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>6단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>107</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>104</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>-</extra>			<!-- 덤-->
+	<gomi>-</gomi>			<!-- 치수-->
+	<limittime>-</limittime>		<!-- 제한시간-->
+	<place>-</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>1036</readnum>		<!-- 조회수-->
+	<gibodata>(;PL[B]MN[1]VW[bb:tt];B[pd];W[dd];B[pq];W[cp];B[eq];W[do];B[qo];W[hq];B[jq];W[jp];B[kp];W[ip];B[kq];W[ko];B[lo];W[ln];B[kn];W[jo];B[km];W[mo];B[lp];W[lm];B[ll];W[kl];B[in];W[im];B[jl];W[kk];B[hm];W[ml];B[ho];W[gp];B[hp];W[iq];B[gq];W[fq];B[gr];W[gn];B[hn];W[fr];B[lk];W[go];B[mk];W[kj];B[ik];W[mn];B[nk];W[mp];B[mr];W[po];B[pp];W[nr];B[lr];W[nq];B[jr];W[pn];B[qn];W[pl];B[qk];W[mq];B[ks];W[pk];B[ql];W[qm];B[rm];W[pm];B[rk];W[pi];B[ni];W[qj];B[ji];W[rp];B[qp];W[jc];B[fc];W[df];B[rj];W[mc];B[cj];W[db];B[bf];W[gd];B[je];W[id];B[ff];W[fe];B[md];W[nd];B[ne];W[ld];B[me];W[nc];B[lc];W[lb];B[nl];W[op];B[qi];W[pj];B[ph];W[nm];B[pc];W[le];B[lf];W[oe];B[of];W[qh];B[ri];W[oh];B[pg];W[nh];B[li];W[mi];B[ki];W[ci];B[cc];W[dc];B[cb];W[be];B[ce];W[cd];B[bd];W[bc];B[ae];W[bb];B[de];W[ee];B[dg];W[dj];B[ck];W[cg];B[cf];W[bi];B[dk];W[ef])</gibodata>
+</gibo>

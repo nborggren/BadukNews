@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4166</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-10-31</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[2006 한게임 마스터즈 서바이벌] 8R
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>46</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>목진석</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>137</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>백홍석</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>5단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>46</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>137</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>5분, 30초 1회</limittime>		<!-- 제한시간-->
+	<place>한게임 바둑 대국실</place>			<!-- 대국장소-->
+	<result>흑 2집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>273</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion]C[];B[qd];W[dp];B[cd];W[qp];B[op];W[oq];B[pp];W[pq];B[qo];W[nq];B[jc];W[rp];B[pj];W[oc];B[mc];W[qh];B[pe];W[oh];B[nj];W[rj];B[pg];W[ph];B[qk];W[rk];B[qm];W[qf];B[ne];W[ec];B[dc];W[ed];B[de];W[hc];B[cn];W[fq];B[bp];W[cm];B[dm];W[cl];B[bn];W[cq];B[dl];W[ck];B[ci];W[dk];B[do];W[di];B[ch];W[fk];B[ep];W[eq];B[cp];W[dq];B[fm];W[on];B[mn];W[ol];B[rl];W[mm];B[nm];W[nn];B[om];W[mo];B[ln];W[lm];B[no];W[np];B[pn];W[oo];B[po];W[no];B[nl];W[kn];B[rf];W[re];B[rg];W[qe];B[qg];W[pf];B[rd];W[of];B[og];W[oe];B[se];W[pd];B[nf];W[qc];B[rc];W[rb];B[qb];W[pb];B[pc];W[qa];B[nd];W[od];B[nh];W[fo];B[hn];W[ho];B[dh];W[fi];B[ej];W[ek];B[io];W[in];B[go];W[hp];B[im];W[jn];B[ei];W[gn];B[gm];W[hk];B[fn];W[ee];B[fh];W[il];B[gp];W[hq];B[jl];W[jk];B[kl];W[gi];B[hg];W[ih];B[kk];W[gg];B[gh];W[hh];B[fg];W[gf];B[hf];W[ge];B[jf];W[df];B[cf];W[dd];B[ce];W[hl];B[db];W[eb];B[ib];W[hb];B[ff];W[if];B[ig];W[jg];B[ie];W[he];B[if];W[ic];B[jj];W[hm];B[jm];W[gn];B[sb];W[qc];B[hn];W[eh];B[eg];W[gn];B[id];W[jb];B[hn];W[ij];B[ji];W[gn];B[kb];W[ia];B[hn];W[bj];B[gn];W[ak];B[ii];W[hi];B[jh];W[kc];B[jd];W[lb];B[gq];W[gr];B[bq];W[da];B[cb];W[ca];B[ba];W[ea];B[bc];W[br];B[mb];W[ra];B[bi];W[ik];B[kd];W[lc];B[ld];W[ka];B[bm];W[bl];B[ar];W[bs];B[ro];W[sd];B[sc];W[sa];B[sp];W[rq];B[sq];W[sr];B[so];W[rr];B[fp];W[ef];B[dj];W[dg];B[hr];W[ir];B[fr];W[hs];B[er];W[dr];B[ds];W[cr];B[nc];W[sd];B[sf];W[ml];B[mk];W[fe];B[eh];W[km];B[ll];W[el];B[em];W[cg];B[bg];W[fj];B[gl];W[gk];B[hd];W[gd];B[ma];W[la];B[oa];W[ob];B[ai];W[am];B[an];W[al];B[cj];W[aj];B[aq];W[fs];B[as];W[es];B[nb];W[pa];B[na];W[fl]PW[백홍석]WR[4단]WT[]PB[목진석]BR[9단]BT[]HA[]KM[6.5]RE[흑 2집반승]DT[2006.10.31]OT[]PC[한게임 바둑 대국실]RO[]EV[2006 한게임 마스터즈 서바이벌 8R]US[]AN[]CP[]SO[]GC[]TM[300]TS[00:00:00]TF[00:00:00]ZT[30]ZC[1])</gibodata>
+</gibo>

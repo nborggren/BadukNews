@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2858</gseq><!-- 기보 시퀀스 -->
+	<playdate>2002-09-16</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				KT배 마스터즈
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>15</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>서봉수</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>147</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>권오민</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>4단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>15</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>147</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>20분</limittime>		<!-- 제한시간-->
+	<place>한국기원 BTV</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>50</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제2기 KT배 마스터스 32강전 ]RD[2002-09-16]PC[한국기원 BTV]TM[20분]LT[30]LC[3]KO[]RE[59수 흑불계승]PB[서봉수]BR[9단]PW[권오민]WR[2단]GK[1]TC[
+★ 서봉수 KT배 16강 진출!!
+
+- 서봉수 9단이 16강 진출에 성공했다. 우하의 전투에서 백을 크게 포획해 백으로선 더 이상 둘곳이 없어졌다. 권 2단이 어깨에 너무 힘이 들어갔던 듯, 단명국
+
+○... 인터넷바둑은 사이버오로
+●... WWW.CYBERORO.COM];B[pd];W[dc];B[dq];W[pp];B[ce];W[ed];B[co];W[iq];B[dg];W[cd];B[nq];W[lq];B[qn];W[oo];B[qq];W[pq];B[qp];W[pm];B[pn];W[on];B[om];W[pk];B[nm];W[qm];B[rm];W[rl];B[rn];W[pr];B[lp];W[kq];B[mp];W[nr];B[pi];W[nk];B[lm];W[qi];B[qh];W[qj];B[qr];W[ph];B[qg];W[oh];B[mr];W[mq];B[or];W[np];B[ns];W[mo];B[kp];W[jp];B[ln];W[ps];B[nn];W[no];B[jr];W[jo];B[lo];W[os];B[lr]C[])</gibodata>
+</gibo>

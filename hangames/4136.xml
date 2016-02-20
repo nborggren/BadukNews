@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>4136</gseq><!-- 기보 시퀀스 -->
+	<playdate>2006-10-25</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[국무총리배 세계아마바둑선수권대회] 7R
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>715</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>히라오카</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>652</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>우동하</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>7단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>715</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>652</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>1시간, 30초 3회</limittime>		<!-- 제한시간-->
+	<place>전주 교대 체육관</place>			<!-- 대국장소-->
+	<result>흑 6집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>437</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제1회 국무총리배 세계아마바둑대회 7R]RD[2006-10-25]PC[전주교육대학 체육관]TM[각 1시간]LT[30]LC[3]KO[]RE[296수 흑6집반승]PB[사토시]BR[아마8단]PW[우동하]WR[아마7단]GK[1]TC[
+★ 사토시(일본), 흑6집반승!
+
+○= 세계인터넷바둑의 허브
+●= www.cyberoro.com];B[pd];W[dd];B[cp];W[pp];B[eq];W[cf];B[jd];W[qf];B[nc];W[rd];B[nq];W[qn];B[jp];W[ck];B[cm];W[qc];B[fc];W[lc];B[ld];W[kd];B[ke];W[kc];B[md];W[jc];B[id];W[hb];B[hc];W[gb];B[gc];W[ic];B[fb];W[mb];B[cc];W[dc];B[db];W[cd];B[bb];W[bc];B[cb];W[di];B[no];W[oq];B[nr];W[hq];B[iq];W[fq];B[ep];W[ho];B[in];W[gm];B[hl];W[gl];B[hk];W[gk];B[hj];W[on];B[pg];W[pf];B[og];W[qg];B[pi];W[nn];B[pr];W[cq];B[bp];W[er];B[dr];W[gr];B[es];W[ir];B[jr];W[qq];B[of];W[mn];B[lp];W[nj];B[qh];W[ob];B[eg];W[dg];B[bk];W[bj];B[bl];W[mi];B[pc];W[pb];B[qd];W[re];B[nb];W[na];B[qk];W[ko];B[lo];W[ln];B[kn]C[];W[fs];B[fr];W[ip];B[jq];W[er];B[qb];W[rc];B[fr];W[je];B[km];W[er];B[oa];W[pa];B[fr];W[kf];B[le];W[er];B[oc];W[rb];B[fr];W[hd];B[ie];W[er];B[mc];W[lb];B[fr];W[jf];B[he];W[er];B[ma];W[ds];B[oa];W[qa];B[ga];W[na];B[cj];W[la];B[ci];W[ch];B[bi];W[bh];B[dj];W[ki];B[rm];W[qm];B[ql];W[bq];B[cr];W[br];B[dq];W[cs];B[rn];W[ro];B[lg];W[jh];B[qr];W[sn];B[rl];W[js];B[ks];W[is];B[io];W[or];B[os];W[ms];B[rq];W[ns];B[qp];W[pq];B[po];W[ps];B[qo];W[oo];B[rp];W[np];B[rr];W[lq];B[hp];W[go];B[kk];W[ll];B[jj];W[eo];B[lr];W[mr];B[kq];W[mq];B[bd];W[be];B[ac];W[ge];B[gf];W[hf];B[gd];W[fe];B[if];W[hg];B[ig];W[gg];B[ei];W[dh];B[fg];W[ff];B[ef];W[ee];B[fi];W[ih];B[df];W[jg];B[hd];W[bg];B[lk];W[gi];B[gj];W[mk];B[rg];W[rf];B[rh];W[ib];B[aq];W[do];B[dp];W[co];B[bo];W[fp];B[ar];W[bs];B[cn];W[mg];B[lf];W[ol];B[hi];W[hh];B[lm];W[ml];B[pl];W[hm];B[im];W[ec];B[eb];W[ek];B[em];W[dk];B[ej];W[mf];B[nf];W[om];B[de];W[ce];B[lh];W[kl];B[jl];W[mh];B[ok];W[oj];B[pj];W[oi];B[oh];W[gh];B[en];W[kj];B[lj];W[li];B[fd];W[ed];B[ah];W[ag];B[ai];W[ha];B[fa];W[sg];B[sh];W[sf];B[mo];W[pe];B[oe];W[me];B[ne];W[ae];B[gp];W[ad];B[bc];W[fk];B[fj];W[ii];B[ij];W[mm];B[nk];W[nl];B[pk];W[mj];B[jk];W[gq];B[ip];W[qs];B[rs];W[os];B[nh];W[dn];B[dm];W[fo]WT[]BT[]HA[]KM[6.5]DT[2006.10.25]OT[]RO[]EV[제1회 국무총리배 세계아마바둑선수권대회 7R]US[]AN[]CP[]SO[]GC[]TS[00:00:00]TF[00:00:00]ZT[30]ZC[3])</gibodata>
+</gibo>

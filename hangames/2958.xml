@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>2958</gseq><!-- 기보 시퀀스 -->
+	<playdate>2003-07-11</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				GS칼텍스배 프로기전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>68</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>송태곤</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>8단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>27</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>양재호</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>27</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>68</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>각 3시간</limittime>		<!-- 제한시간-->
+	<place>한국기원 본선대국실</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>16</readnum>		<!-- 조회수-->
+	<gibodata>(;GM[1]FF[4]GN[제8기 LG정유배 프로기전 16강전]RD[2003-07-11]PC[한국기원 본선대국실]TM[각 3시간]LT[60]LC[5]KO[]RE[208수 백불계승]PB[송태곤 ]BR[5단]PW[양재호]WR[9단]GK[1]TC[
+★ 양재호, 송태곤 꺾고 8강 진출!
+
+양재호 9단이 송태곤 5단을 상대로 백불계승을 거두고 LG정유배 8강에 올랐다.
+
+'반상의 과학자'란 별명을 가진 양 9단은 올해들어 12승6패(승률 66.66%)의 성적을 거두며 활약중이다.
+
+양 9단은 조한승 6단과 4강전에서 격돌한다.
+
+○= 인터넷바둑은 사이버오로
+●= www.cyberoro.com];B[qd];W[dp];B[dc];W[ce];B[pp];W[od];B[dh];W[fe];B[fc];W[cc];B[de];W[cd];B[ee];W[qc];B[ld];W[rd];B[qe];W[re];B[pc];W[qb];B[pd];W[qf];B[pf];W[pg];B[qg];W[rf];B[og];W[ph];B[of];W[jc];B[je];W[oh];B[mc];W[ie];B[id];W[jd];B[he];W[if];B[jf];W[hd];B[ic];W[hc];B[ib];W[hb];B[jb];W[hf];B[ge];W[gf];B[gd];W[jg];B[lf];W[kb];B[kc];W[fd];B[gc];W[ed];B[dd];W[ec];B[eb];W[ff];B[gb];W[db];B[cb];W[df];B[da];W[dk];B[cf];W[ef];B[db];W[cg];B[bf];W[bg];B[be];W[dg];B[jq];W[fq];B[cp];W[co];B[bo];W[cq];B[bp];W[do];B[bq];W[cr];B[cn];W[bm];B[bn];W[cl];B[cm];W[bl];B[em];W[gm];B[br];W[lq];B[jo];W[ip];B[jp];W[lo];B[ek];W[qn];B[nq];W[mq];B[np];W[lm];B[jm];W[nn];B[fn];W[ho];B[hq];W[gp];B[il];W[hl];B[hk];W[gk];B[hm];W[gn];B[gl];W[fl];B[el];W[dj];B[fo];W[hl];B[go];W[iq];B[hn];W[hr];B[gl];W[rp];B[qq];W[rq];B[pn];W[pm];B[qo];W[ro];B[qm];W[rn];B[om];W[pl];B[on];W[ol];B[nm];W[jr];B[io];W[hp];B[mr];W[lr];B[oj];W[pj];B[nl];W[nk];B[pb];W[pa];B[oa];W[qa];B[nb];W[af];B[bc];W[ae];B[bd];W[fi];B[nj];W[ok];B[mk];W[mj];B[ni];W[nh];B[mi];W[qr];B[pr];W[qp];B[pq];W[rr];B[lj];W[mn];B[ms];W[gj];B[cs];W[er];B[fm];W[ii];B[jh];W[ji];B[pi];W[qi];B[oi];W[qj];B[ng];W[mh];B[lh];W[qh];B[kn];W[kh];B[kg];W[ih];B[ki];W[mg];B[jh];W[mf];B[ig];W[hg];B[ln];W[mo];B[mm];W[jk];B[ne];W[me];B[md];W[kk]C[])</gibodata>
+</gibo>

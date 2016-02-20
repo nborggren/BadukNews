@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>19277</gseq><!-- 기보 시퀀스 -->
+	<playdate>2009-06-14</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[2009 한국바둑리그] 3R 2G 1국
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>108</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>허영호</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo208.jpg
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>51</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>박정상</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo085.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>51</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>108</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>30초 10회</limittime>		<!-- 제한시간-->
+	<place>신안 증도 엘도라도</place>			<!-- 대국장소-->
+	<result>백 1집반승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>770</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.0]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]N[Root::게임정보];B[qd]C[];W[dd]C[];B[pp]C[];W[dq]C[];B[oc]C[];W[qj]C[];B[do]C[];W[co]C[];B[dp]C[];W[cp]C[];B[eq]C[];W[cn]C[];B[qm]C[];W[qg]C[];B[dr]C[];W[cq]C[];B[jp]C[];W[pq]C[];B[qq]C[];W[qp]C[];B[qo]C[];W[rp]C[];B[rq]C[];W[po]C[];B[op]C[];W[ro]C[];B[qn]C[];W[oq]C[];B[nq]C[];W[np]C[];B[oo]C[];W[nr]C[];B[mq]C[];W[mr]C[];B[lq]C[];W[qr]C[];B[rr]C[];W[pr]C[];B[qs]C[];W[ps]C[];B[lr]C[];W[sp]C[];B[pj]C[];W[pi]C[];B[qk]C[];W[oi]C[];B[rj]C[];W[qi]C[];B[cf]C[];W[ci]C[];B[fc]C[];W[df]C[];B[cc]C[];W[dc]C[];B[dg]C[];W[cd]C[];B[ef]C[];W[fd]C[];B[hd]C[];W[ff]C[];B[ee]C[];W[eg]C[];B[de]C[];W[fe]C[];B[di]C[];W[ce]C[];B[eh]C[];W[fg]C[];B[cj]C[];W[ch]C[];B[dh]C[];W[bf]C[];B[bg]C[];W[cg]C[];B[be]C[];W[df]C[];B[sr]C[];W[ed]C[];B[rn]C[];W[kc]C[];B[jd]C[];W[kd]C[];B[jc]C[];W[ke]C[];B[eb]C[];W[pc]C[];B[pd]C[];W[qc]C[];B[nd]C[];W[rc]C[];B[qf]C[];W[rf]C[];B[re]C[];W[pf]C[];B[pb]C[];W[qb]C[];B[nb]C[];W[pa]C[];B[ob]C[];W[oe]C[];B[od]C[];W[jb]C[];B[ib]C[];W[lb]C[];B[ja]C[];W[ka]C[];B[kb]C[];W[on]C[];B[no]C[];W[jb]C[];B[db]C[];W[ia]C[];B[qe]C[];W[cb]C[];B[hb]C[];W[fo]C[];B[em]C[];W[dn]C[];B[gq]C[];W[gm]C[];B[gk]C[];W[hp]C[];B[hq]C[];W[il]C[];B[ik]C[];W[jk]C[];B[ij]C[];W[jj]C[];B[ii]C[];W[ie]C[];B[ca]C[];W[bc]C[];B[gb]C[];W[fj]C[];B[fk]C[];W[ej]C[];B[hl]C[];W[hm]C[];B[jl]C[];W[im]C[];B[ek]C[];W[dj]C[];B[dk]C[];W[ip]C[];B[iq]C[];W[mo]C[];B[nn]C[]N[];W[ck]C[];B[ig]C[];W[je]C[];B[gj]C[];W[bj]C[];B[kl]C[];W[lk]C[];B[kg]C[];W[lj]C[];B[ji]C[];W[hh]C[];B[gl]C[];W[er]C[];B[fq]C[];W[mn]C[];B[nm]C[];W[mm]C[];B[kn]C[];W[dl]C[];B[hg]C[];W[gh]C[];B[nl]C[];W[ml]C[];B[jo]C[];W[el]C[];B[li]C[];W[nk]C[];B[he]C[];W[hf]C[];B[if]C[];W[gf]C[];B[id]C[];W[ol]C[];B[mp]C[];W[mf]C[];B[ih]C[];W[kh]C[];B[lf]C[];W[om]C[];B[pn]C[];W[ki]C[];B[kj]C[];W[kk]C[];B[le]C[];W[jg]C[];B[jf]C[];W[kf]C[];B[jh]C[];W[lg]C[];B[lh]C[];W[jg]C[];B[cl]C[];W[kg]C[];B[dm]C[];W[cm]C[];B[fl]C[];W[en]C[];B[dl]C[];W[pk]C[];B[pl]C[];W[ok]C[];B[rg]C[];W[rh]C[];B[sf]C[];W[bl]C[];B[cr]C[];W[br]C[];B[fr]C[];W[cs]C[];B[es]C[];W[rk]C[];B[rl]C[];W[ql]C[];B[sk]C[];W[pm]C[];B[pg]C[];W[og]C[];B[qh]C[];W[ph]C[];B[qg]C[];W[ri]C[];B[qk]C[];W[ba]C[];B[gi]C[];W[fi]C[];B[pl]C[];W[da]C[];B[ea]C[];W[me]C[];B[ne]C[];W[nf]C[];B[bs]C[];W[ep]C[];B[bq]C[];W[as]C[];B[bp]C[];W[bo]C[];B[ds]C[];W[ap]C[];B[bs]C[];W[aq]C[];B[ar]C[];W[ql]C[];B[rk]C[];W[lo]C[];B[gp]C[];W[in]C[];B[ko]C[];W[go]C[];B[bq]C[];W[mc]C[];B[md]C[];W[ld]C[];B[mb]C[];W[ma]C[];B[sd]C[];W[ll]C[];B[km]C[];W[lp]C[];B[kp]C[];W[hi]C[];B[hj]C[];W[gd]C[];B[gc]C[];W[fm]C[];B[io]C[];W[ho]C[];B[gg]C[];W[fh]C[];B[ha]C[];W[ja]C[];B[na]C[];W[la]C[];B[rd]C[];W[pl]C[];B[ca]C[];W[bp]C[];B[br]C[];W[da]C[];B[bk]C[];W[ak]C[];B[ca]C[];W[sb]C[];B[ra]C[];W[da]C[];B[nc]C[];W[lc]C[];B[ca]C[];W[os]C[];B[ms]C[];W[da]C[];B[pe]C[];W[of]C[];B[ca]C[];W[rs]C[];B[ls]C[];W[da]C[];B[fp]C[];W[ca]N[]C[])</gibodata>
+</gibo>

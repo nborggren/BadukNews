@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>1911</gseq><!-- 기보 시퀀스 -->
+	<playdate>2005-12-16</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				비씨카드배 신인왕전
+				
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>155</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>김형환</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>4단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>135</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>최원용</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>5단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>135</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>155</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분, 40초 3회</limittime>		<!-- 제한시간-->
+	<place>한국기원 바둑TV 스튜디오</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>126</readnum>		<!-- 조회수-->
+	<gibodata>(;PL[B]MN[1]VW[bb:tt];B[qd];W[dc];B[pp];W[dp];B[oc];W[qj];B[ce];W[ci];B[cn];W[cl];B[gc];W[ed];B[jd];W[cd];B[qh];W[qn];B[mq];W[rp];B[ql];W[on];B[pk];W[pq];B[oq];W[qq];B[pj];W[kq];B[cq];W[lo];B[mo];W[mn];B[kr];W[jr];B[jq];W[kp];B[lr];W[iq];B[no];W[nn];B[nr];W[dq];B[cp];W[do];B[bn];W[em];B[kh];W[kj];B[ii];W[lc];B[jc];W[nc];B[od];W[ob];B[mb];W[nb];B[mc];W[nd];B[qc];W[md];B[lb];W[mh];B[mg];W[ld];B[kb];W[ng];B[mf];W[nf];B[nh];W[lg];B[lf];W[ke];B[mi];W[je];B[he];W[hf];B[gf];W[hg];B[jg];W[oe];B[me];W[ne];B[ie];W[oh];B[ni];W[if];B[jf];W[qg];B[rg];W[qe];B[re];W[rf];B[sf];W[qf];B[rh];W[rd];B[se];W[rc])</gibodata>
+</gibo>

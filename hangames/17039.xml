@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>17039</gseq><!-- 기보 시퀀스 -->
+	<playdate>2008-08-16</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[2008 한국바둑리그] 9R 4G 1국
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>201</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>김형우</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>3단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo059.jpg
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>67</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>원성진</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/pro_photo123.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>67</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>201</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>30초 10회</limittime>		<!-- 제한시간-->
+	<place>한국기원 바둑TV 스튜디오</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>496</readnum>		<!-- 조회수-->
+	<gibodata>(;AP[HangameBadookEditor:1.1]CA[ISO-2022-KR]FF[4]GM[1]ST[2]SZ[19]GN[AutoConversion];B[qd];W[pp];B[dc];W[cp];B[ep];W[eq];B[fq];W[dq];B[ce];W[od];B[mc];W[qc];B[rc];W[pc];B[qg];W[rb];B[rd];W[ne];B[kd];W[qi];B[og];W[mf];B[pj];W[pi];B[oi];W[qj];B[pk];W[qk];B[pl];W[ql];B[pm];W[qm];B[pn];W[oh];B[ph];W[nh];B[qn];W[qh];B[pg];W[rh];B[nq];W[mi];B[nj];W[rm];B[rn];W[ic];B[jc];W[id];B[kf];W[fc];B[fp];W[np];B[oq];W[op];B[mp];W[mq];B[pq];W[qq];B[qr];W[rp];B[rq];W[qp];B[rr];W[nr];B[mr];W[lq];B[or];W[lr];B[mo];W[ms];B[os];W[sn];B[so];W[sm];B[ro];W[cn];B[jq];W[jr];B[ir];W[iq];B[ip];W[hq];B[kr];W[kq];B[js];W[jp];B[jo];W[jr];B[pe];W[rf];B[jq];W[kp];B[hr];W[jr];B[rg];W[sg];B[jq];W[io];B[hp];W[jr];B[qf];W[re];B[jq];W[mn];B[no];W[jr];B[sh];W[si];B[jq];W[jn];B[gq];W[jl];B[lh];W[ng];B[fe];W[gf];B[gb];W[gc];B[hb];W[ib];B[fb];W[kb];B[jb];W[ja];B[kc];W[lb];B[mb];W[if];B[jg];W[ke];B[le];W[je]C[])</gibodata>
+</gibo>
