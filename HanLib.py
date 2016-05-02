@@ -151,13 +151,19 @@ def WriteSent(sent,name,translate=1,n=25):
         else:
             dat.write(i+'\n')
 
-def WriteList(sent,mylist,name,translate=1,n=25):
+def WriteList(sent,mylist,name,translate=1,n=25,space=1):
     dat=codecs.open('./output/'+name+'.txt','w',encoding='utf-8')
+    if space==1:
+        mylist=[' '+word+' ' for word in mylist]
     for word in mylist:
         word = unicode(word,'utf-8')
         tmp = SearchDB(sent,word)
         tmpn = min([n,len(tmp)])
-        dat.write(word+', '+google_translate(word)+'\n')
+        try:
+            dat.write(word+', '+google_translate(word)+'\n')
+        except UnicodeDecodeError:
+            print word
+            dat.write(word+'\n')
         for i in tmp[:tmpn]:
             #i=unicode(i,'utf-8')
             if translate==1:
