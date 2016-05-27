@@ -49,10 +49,13 @@ def LoadDB():
 def ShortSent(sent):
     return sorted(sent, key = lambda x: len(x))
 
-def SearchDB(sent,token):
+def SearchDB(sent,token,verbose=1,n=10):
     matches = [i for i in sent if i.find(token)>0]
     matches = list(set(matches))
-    return sorted(matches, key=lambda x: len(x))
+    matches = sorted(matches, key=lambda x: len(x))
+    if verbose==1:
+        for i in range(n):print matches[i]
+    return matches
 
 def SearchDBList(sent,tokens):
     matches=[]
