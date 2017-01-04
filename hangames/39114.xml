@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>39114</gseq><!-- 기보 시퀀스 -->
+	<playdate>2016-09-15</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[일본 명인전] 최종예선
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>1126</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>히라타 토모야</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>287</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>쑤야오궈</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>9단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/china/pro_photo042.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>1126</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>287</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>3시간 60초 5회</limittime>		<!-- 제한시간-->
+	<place>일본기원</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>151</readnum>		<!-- 조회수-->
+	<gibodata>(;FF[4]GM[1]SZ[19]TM[180시간60초5회]RE[흑 불계승]HA[호선 - 6집 반 공제]PB[수순중계4]BR[201]PW[수순중계3]WR[201]QF[0];B[pd];W[dd];B[pq];W[dq];B[co];W[dl];B[gp];W[ep];B[jp];W[qn];B[po];W[rp];B[pn];W[qm];B[pk];W[qq];B[qr];W[pm];B[om];W[rk];B[ol];W[qj];B[cf];W[ch];B[dm];W[cl];B[fm];W[el];B[em];W[cm];B[bq];W[br];B[cq];W[cr];B[dn];W[gr];B[hr];W[fr];B[gk];W[hq];B[ir];W[fc];B[ed];W[ee];B[cd];W[cc];B[dc];W[de];B[cb];W[bc];B[ec];W[fd];B[bb];W[ce];B[bd];W[be];B[ac];W[gf];B[jj];W[nc];B[ne];W[ld];B[le];W[ke];B[kd];W[jd];B[kc];W[lc];B[lf];W[pb];B[je];W[kf];B[ie];W[kg];B[jc];W[nf];B[of];W[oe];B[nd];W[od];B[oc];W[pe];B[ng];W[pf];B[mf];W[pc];B[mc];W[ob];B[lb];W[oh];B[ni];W[hp];B[ho];W[go];B[hn];W[gi];B[hf];W[hj];B[ge];W[fe];B[hk];W[ij];B[jk];W[ji];B[ki];W[jh];B[hh];W[hi];B[fj];W[ik];B[il];W[hl];B[ci])</gibodata>
+</gibo>
