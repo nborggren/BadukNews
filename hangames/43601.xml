@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>43601</gseq><!-- 기보 시퀀스 -->
+	<playdate>2017-11-16</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				[일본 천원전(天元戰)] 예선
+				
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>369</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>류시훈</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>9단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://badukwww.hangame.com/2008baduk/pro_photo/japan/pro_photo051.jpg
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>522</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>스즈키 아유미</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>7단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		
+		http://images.hangame.co.kr/hangame/renewal_2007/baduk/common/noimage_player120x97.gif
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>522</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>369</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>3시간 60초 5회</limittime>		<!-- 제한시간-->
+	<place>일본기원</place>			<!-- 대국장소-->
+	<result>백 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>165</readnum>		<!-- 조회수-->
+	<gibodata>(;FF[4]GM[1]SZ[19]TM[180시간60초5회]RE[백 불계승]HA[호선 - 6집 반 공제]PB[수순중계4]BR[209]PW[수순중계3]WR[209]QF[0];B[pd];W[dp];B[qp];W[dc];B[fq];W[cn];B[lq];W[qj];B[de];W[ce];B[cf];W[cd];B[df];W[fc];B[cj];W[dr];B[qh];W[qn];B[op];W[pl];B[pc];W[jq];B[hq];W[jo];B[lo];W[lr];B[mq];W[hn];B[ho];W[io];B[gn];W[hm];B[gm];W[gl];B[en];W[hl];B[dd];W[cc];B[kd];W[ck];B[dk];W[dj];B[dl];W[ci];B[bj];W[cl];B[cm];W[dm];B[bm];W[em];B[bl];W[dn];B[jp];W[kp];B[ip];W[kq];B[ko];W[mr];B[nr];W[nq];B[np];W[hr];B[gr];W[ir];B[er];W[gp];B[gq];W[ks];B[cr];W[dq];B[ds];W[el];B[ek];W[fk];B[ej];W[bq];B[cq];W[bp];B[iq];W[lp];B[mp];W[jr];B[cp];W[co];B[eo];W[go];B[do];W[br])</gibodata>
+</gibo>

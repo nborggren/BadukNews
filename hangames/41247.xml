@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gibo>
+	<gseq>41247</gseq><!-- 기보 시퀀스 -->
+	<playdate>2017-04-29</playdate>	<!-- 대국일자 (YYYYMMDD)-->
+	<kind>0</kind>	<!-- 구분(1:프로기보, 2:한게임기보) -->
+	<title>
+				
+				
+				[여자바둑리그] 13R 3G 3국
+			
+	</title> <!-- 기보 제목(기전이름/상태 입력 상태에 따라 가공하여 보냄) -->
+	<playerbseq>971</playerbseq>		<!-- 흑대국자 시퀀스 (=badukpeople.seq)-->
+	<playerbname>최정</playerbname>		<!-- 흑대국자 이름 (=badukpeople.namekorean)-->
+	<playerbgrade>7단</playerbgrade>	<!-- 흑대국자 단수 (기보 입력당시의 단수)-->
+	<playerbimg>
+		http://images.hangame.co.kr/upload/baduk/img/pro_photo/kr/kr_059
+		
+	</playerbimg>		<!-- 흑대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄) -->
+	<playerwseq>1384</playerwseq>		<!-- 백대국자 시퀀스 (=badukpeople.seq)-->
+	<playerwname>장혜령</playerwname>		<!-- 백대국자 이름 (=badukpeople.namekorean)-->
+	<playerwgrade>초단</playerwgrade>	<!-- 백대국자 단수 (기보 입력당시의 단수)-->
+	<playerwimg>
+		http://images.hangame.co.kr/upload/baduk/img/pro_photo/kr/kr_090.jpg
+		
+	</playerwimg>		<!-- 백대국자 썸네일(입력 안된 경우 노이미지 URL로 보냄)-->
+	<winplayerseq>971</winplayerseq>	<!-- 승자 시퀀스 (=badukpeople.seq)-->
+	<defeatplayerseq>1384</defeatplayerseq>	<!-- 패자 시퀀스 (=badukpeople.seq)-->
+	<extra>6.5</extra>			<!-- 덤-->
+	<gomi>호선</gomi>			<!-- 치수-->
+	<limittime>10분 40초 5회</limittime>		<!-- 제한시간-->
+	<place>한국기원</place>			<!-- 대국장소-->
+	<result>흑 불계승</result>	<!-- 결과(ex: 흑 불계승)-->
+	<readnum>346</readnum>		<!-- 조회수-->
+	<gibodata>(;FF[4]GM[1]SZ[19]TM[10시간40초5회]RE[흑 불계승]HA[호선 - 6집 반 공제]PB[수순중계4]BR[201]PW[수순중계3]WR[201]QF[0];B[pd];W[dd];B[qp];W[dq];B[do];W[co];B[cn];W[cp];B[dm];W[fq];B[cf];W[fc];B[di];W[qj];B[qh];W[qm];B[oq];W[qf];B[nc];W[qd];B[qc];W[rc];B[qe];W[rd];B[pe];W[pc];B[qb];W[pb];B[rb];W[sb];B[re];W[qa];B[hc];W[bd];B[pl];W[pm];B[pj];W[ol];B[pk];W[oo];B[mq];W[rk];B[qi];W[rp];B[qo];W[qq];B[ro];W[rr];B[sp];W[sq];B[rq];W[pq];B[sr];W[op];B[or];W[pp];B[mo];W[mn];B[lo];W[ml];B[on];W[pn];B[nn];W[om];B[mm];W[po];B[lj];W[kl];B[nk];W[nl];B[kn];W[im];B[ik];W[km];B[iq];W[ip];B[hp];W[io];B[jq];W[gm];B[gk];W[rn];B[qr];W[ie];B[kc];W[ke];B[fd];W[gd];B[hd];W[fe];B[he];W[kh];B[lk];W[ll];B[jj];W[ig];B[hn];W[il];B[ho];W[gl];B[fk];W[en];B[fn];W[fo];B[jf];W[if];B[lg];W[gg];B[ff];W[gf];B[ge];W[ed];B[ef];W[kg];B[lf];W[kf];B[jd];W[le];B[mc];W[je];B[ii];W[mf];B[lh];W[ne];B[gn];W[pr];B[rs])</gibodata>
+</gibo>
