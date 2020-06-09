@@ -6,6 +6,17 @@ import requests
 import xml.etree.ElementTree as ET
 from konlpy.tag import Kkma
 from konlpy.utils import pprint
+import zipfile
+
+def LoadDB_2020(src='oro'):
+    dat = []
+    z = zipfile.ZipFile('./{}/{}.zip'.format(src,src))
+    for j in z.filelist:
+        with z.open(j) as f:
+            for q in f.readlines():
+                dat.append(Clean(codecs.decode(q,encoding='utf-8')))
+    return [i for i in dat if len(i) > 0]
+
 
 def ReadSent(pageno,src='./han/'):
     dat=codecs.open(src+str(pageno)+'.d',encoding='utf-8')
@@ -13,11 +24,11 @@ def ReadSent(pageno,src='./han/'):
     dat = Clean(dat)
     dat = dat.replace('?','.')
     dat = dat.replace('!','.')
-    return [' '.join(i.split()) for i in dat.split('.')]
-    
+    dat = [' '.join(i.split()) for i in dat.split('.')]
+
 def Clean(sentence,comma=0):
     if comma==0:
-        for i in ['\n','_','-','(',')','"','\'','...','[',']','<','>','\r']:
+        for i in ['\n','_','-','(',')','"','\'','...','[',']','<','>','\r', '\xa0']:
             sentence=sentence.replace(i,' ')
     else:
         for i in ['\n','_','-','(',')','"','\'','...','[',']','<','>',',','\r']:
@@ -94,9 +105,9 @@ def WCountPos(sent,kkma,write=0,n=2000,name='konlp.wlist'):
 
 #sent = LoadDB(src='all')
 #print len(sent)
-sent = LoadDB(src='dat')
-print (len(sent))
-kkma=Kkma()
+#sent = LoadDB(src='dat')
+#print (len(sent))
+#kkma=Kkma()
 # morphs = []
 # pos = []
 
@@ -129,14 +140,14 @@ kkma=Kkma()
 #     b=time.time()
 #     print (b-a)/60.,' minutes passed ',i
 
-k=77
-n=len(sent)/k
-for i in range(k)[14:]:
-    a=time.time()
-    morphs,freq=WCountPos(sent[n*i:min([n*(i+1),len(sent)-1])],kkma,write=1,n=-1,name='dat_'+str(i)+'.list')
-    b=time.time()
-    print ((b-a)/60.,' minutes passed ',i)
+# k=77
+# n=len(sent)/k
+# for i in range(k)[14:]:
+#     a=time.time()
+#     morphs,freq=WCountPos(sent[n*i:min([n*(i+1),len(sent)-1])],kkma,write=1,n=-1,name='dat_'+str(i)+'.list')
+#     b=time.time()
+#     print ((b-a)/60.,' minutes passed ',i)
 
-    #for i in freq[:10]:
-    #print i
+#     #for i in freq[:10]:
+#     #print i
 
