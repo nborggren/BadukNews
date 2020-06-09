@@ -1,7 +1,8 @@
 import time
 import re
 import codecs
-import urllib2 as ul
+#import urllib2 as ul
+import requests
 import xml.etree.ElementTree as ET
 from konlpy.tag import Kkma
 from konlpy.utils import pprint
@@ -94,7 +95,7 @@ def WCountPos(sent,kkma,write=0,n=2000,name='konlp.wlist'):
 #sent = LoadDB(src='all')
 #print len(sent)
 sent = LoadDB(src='dat')
-print len(sent)
+print (len(sent))
 kkma=Kkma()
 # morphs = []
 # pos = []
@@ -134,7 +135,7 @@ for i in range(k)[14:]:
     a=time.time()
     morphs,freq=WCountPos(sent[n*i:min([n*(i+1),len(sent)-1])],kkma,write=1,n=-1,name='dat_'+str(i)+'.list')
     b=time.time()
-    print (b-a)/60.,' minutes passed ',i
+    print ((b-a)/60.,' minutes passed ',i)
 
     #for i in freq[:10]:
     #print i

@@ -1,4 +1,5 @@
 촌식아 실망 마, 차기 ORO WBC를 노리자구 
+촌식아 실망 마, 차기 ORO WBC를 노리자구 
 결승 'flpingbo' vs  'shuliquog' 中-中전 
 [Oro WBC] 
 오로IN  2017-08-30 오후 06:04   [프린트｜스크랩]

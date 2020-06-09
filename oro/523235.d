@@ -1,4 +1,5 @@
 김성룡과 함께 하는 ‘바둑투어’ 떠나자!
+김성룡과 함께 하는 ‘바둑투어’ 떠나자!
 바둑 이벤트 및 미녀 기사와 다면기도 함께 열려 
 [정보] 
 오로IN  2017-07-27 오전 11:31   [프린트｜스크랩]
@@ -14,7 +15,7 @@
 바둑투어 문의 
 1544-5252
 관련 홈페이지 
-http://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx;=8261
+http://www.modetour.com/event/plan/detail.aspx?mloc=07&eidx=8261
           
  
  
