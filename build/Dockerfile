@@ -1,6 +1,7 @@
 FROM ubuntu:latest
-LABEL maintainer="Jamie Seol <theeluwin@gmail.com>"
-
+#LABEL maintainer="Jamie Seol <theeluwin@gmail.com>" from https://hub.docker.com/r/theeluwin/ubuntu-konlpy
+#modified Nathan Borggren 2020_06_10 from 
+LABEL maintaner="Nathan Borggren <nborggren@gmail.com>"
 # apt init
 ENV LANG=C.UTF-8
 ENV TZ=Asia/Seoul
@@ -30,9 +31,11 @@ RUN mkdir -p /workspace
 WORKDIR /workspace
 
 # install python packages
-RUN pip install jpype1-py3 konlpy
+RUN pip install jpype1-py3 jupyter librosa Cython 
 RUN cd /workspace && \
-    curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh | bash -s
+    curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh | bash -
+    
+RUN pip install scikit-tda gensim torch torchvision
 
 # entry
-ENTRYPOINT ["python"]
+#ENTRYPOINT ["python"]
