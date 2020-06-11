@@ -31,11 +31,12 @@ RUN mkdir -p /workspace
 WORKDIR /workspace
 
 # install python packages
-RUN pip install jpype1-py3 jupyter librosa Cython 
+RUN pip install jpype1-py3 konlpy jupyter librosa Cython 
 RUN cd /workspace && \
     curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh | bash -
     
 RUN pip install scikit-tda gensim torch torchvision
+RUN pip install networkx
 
 # entry
 #ENTRYPOINT ["python"]
