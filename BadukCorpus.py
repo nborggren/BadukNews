@@ -14,7 +14,10 @@ def LoadDB_2020(src='oro'):
     for j in z.filelist:
         with z.open(j) as f:
             for q in f.readlines():
-                dat.append(Clean(codecs.decode(q,encoding='utf-8')))
+                try:
+                    dat.append(Clean(codecs.decode(q,encoding='utf-8')))
+                except UnicodeDecodeError:
+                    print(q)
     return [i for i in dat if len(i) > 0]
 
 
