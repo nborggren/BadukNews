@@ -10,7 +10,7 @@ import zipfile
 
 def LoadDB_2020(src='oro'):
     dat = []
-    z = zipfile.ZipFile('./{}/{}.zip'.format(src,src))
+    z = zipfile.ZipFile('../scraped/{}/{}.zip'.format(src,src))
     for j in z.filelist:
         with z.open(j) as f:
             for q in f.readlines():
