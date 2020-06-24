@@ -1,6 +1,7 @@
 import time
 import re
 import codecs
+import io
 #import urllib2 as ul
 import requests
 import xml.etree.ElementTree as ET
@@ -20,6 +21,27 @@ def LoadDB_2020(src='oro'):
                     print(q)
     return [i for i in dat if len(i) > 0]
 
+def LoadSGFs(path = '../scraped/sgfs/sgfs.zip'):
+#import csv, io, sys, zipfile
+    games = []
+    #bad_games = []
+    z = zipfile.ZipFile('../scraped/sgfs/sgfs.zip')
+    for i in z.filelist:
+        h = z.open(i, 'r')
+        game_string = io.TextIOWrapper(h).read()
+        games.append(game_string)
+
+    good_games = [j for i,j in enumerate(games) if j!='(null)']
+    moves = [j.split(';')[2:] for j in good_games]
+    hmoves = []
+    for i in moves:
+        try:
+            if len(i[0]) > 2:
+                if i[0][:2]=='B[':
+                    hmoves.append([j.replace('C[]','')[:5] for j in i if j[0] in ['B', 'W']]) 
+        except IndexError:
+            print(i)
+    return hmoves
 
 def ReadSent(pageno,src='./han/'):
     dat=codecs.open(src+str(pageno)+'.d',encoding='utf-8')
@@ -28,6 +50,7 @@ def ReadSent(pageno,src='./han/'):
     dat = dat.replace('?','.')
     dat = dat.replace('!','.')
     dat = [' '.join(i.split()) for i in dat.split('.')]
+    return dat
 
 def Clean(sentence,comma=0):
     if comma==0:
@@ -105,6 +128,7 @@ def WCountPos(sent,kkma,write=0,n=2000,name='konlp.wlist'):
             except KeyError:
                 continue
     return mywords, freq
+
 
 #sent = LoadDB(src='all')
 #print len(sent)
