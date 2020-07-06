@@ -40,7 +40,8 @@ def LoadSGFs(path = '../scraped/sgfs/sgfs.zip'):
                 if i[0][:2]=='B[':
                     hmoves.append([j.replace('C[]','')[:5] for j in i if j[0] in ['B', 'W']]) 
         except IndexError:
-            print(i)
+            #print(i)
+            pass
     return hmoves
 
 def ReadSent(pageno,src='./han/'):
